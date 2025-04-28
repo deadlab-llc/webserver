@@ -8,6 +8,7 @@ import { join,dirname } from "path"
 import { fileURLToPath } from "url"
 import {resolvers,typeDefs} from "./models/index.mjs"
 import { ApolloServerPluginCacheControl } from "@apollo/server/plugin/cacheControl"
+import { ApolloServerPluginLandingPageDisabled } from '@apollo/server/plugin/disabled'
 // import {default as cors} from "cors"
 import {default as DATABASE_CONNECTION} from "./config/connection.mjs"
 import {default as ApplyMiddleware} from "./config/middleware.mjs"
@@ -26,8 +27,10 @@ const APOLLO = new ApolloServer({
     typeDefs,
     resolvers,
     csrfPrevention:true,
+    introspection:false,
+    playground: false,
     cache:"bounded",
-    plugins:[ApolloServerPluginCacheControl({defaultMaxAge:3600})]//Default cache is 1hr long
+    plugins:[ApolloServerPluginCacheControl({defaultMaxAge:3600}),ApolloServerPluginLandingPageDisabled()]//Default cache is 1hr long
 })
 SetDir(join(__DIRNAME,"logs"))
 ClearFile()
@@ -43,11 +46,16 @@ async function AttemptConnections(){
         //connect middleware
         ApplyMiddleware(APP,APOLLO,__DIRNAME)
         //connect routes
-        // APP.use(LIMITER)
+        APP.use(LIMITER)
         APP.use(ROUTES)
         APP.get("*", (req, res) => {
             res.sendFile(join(__DIRNAME, "../client/dist", "index.html"));
         });
+        if(process.env.NODE_ENV=="production"){
+            APP.get("/graphql", (req, res) => {
+                res.sendFile(join(__DIRNAME, "../client/dist", "index.html"));
+            });
+        }        
         //connect express
         APP.listen(PORT,()=>Log(new Error(),`Connection to Express established on http://localhost:${PORT}`))
     } catch (error) {

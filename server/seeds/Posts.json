@@ -52,6 +52,10 @@
         ],
         "version_history":[
             {
+                "version_number":"2.2.15.8",
+                "patch_note":"Fixed missing SFX"
+            },
+            {
                 "version_number":"2.2.15.4",
                 "patch_note":"Fixed missing healthbar"
             },
@@ -196,6 +200,10 @@
         ],
         "version_history":[
             {
+                "version_number":"2.2.15.8",
+                "patch_note":"Moga fixed missing vfx/sfx"
+            },
+            {
                 "version_number":"2.2.15.4",
                 "patch_note":"Fixed missing healthbar"
             },
@@ -266,6 +274,10 @@
             }
         ],
         "version_history":[
+            {
+                "version_number":"1.9.15.8",
+                "patch_note":"Moga fixed missing VO"
+            },
             {
                 "version_number":"1.9.15.4",
                 "patch_note":"Fixed missing healthbar"
@@ -413,6 +425,14 @@
         ],
         "version_history":[
             {
+                "version_number":"1.1.15.8",
+                "patch_note":"Fixed missing portrait and square on ult"
+            },
+            {
+                "version_number":"1.0.15.8",
+                "patch_note":"Added all missing assets and turned them into .tex. No more squares!"
+            },
+            {
                 "version_number":"1.0.15.5",
                 "patch_note":"Fixed square vfx"
             },
@@ -522,6 +542,10 @@
         ],
         "version_history":[
             {
+                "version_number":"0.8.15.8",
+                "patch_note":"Repaired missing SFX"
+            },
+            {
                 "version_number":"0.8.15.4",
                 "patch_note":"Fixed missing healthbar"
             },
@@ -577,6 +601,10 @@
             }
         ],
         "version_history":[
+            {
+                "version_number":"1.15.15.7",
+                "patch_note":"Fixed square VFX as reported by Impaired."
+            },
             {
                 "version_number":"1.5.15.4",
                 "patch_note":"Fixed missing healthbar"
@@ -641,6 +669,10 @@
         ],
         "version_history":[
             {
+                "version_number":"1.0.15.8",
+                "patch_note":"Repaired missing VFX"
+            },
+            {
                 "version_number":"1.0.15.4",
                 "patch_note":"Fixed missing healthbar"
             },
@@ -703,6 +735,14 @@
             }
         ],
         "version_history":[
+            {
+                "version_number":"1.0.15.8",
+                "patch_note":"Repaired missing SFX"
+            },
+            {
+                "version_number":"1.0.15.7",
+                "patch_note":"Fixed all missing assets using Martynas macro"
+            },
             {
                 "version_number":"1.0.15.4",
                 "patch_note":"Fixed missing healthbar"
@@ -809,6 +849,10 @@
             }
         ],
         "version_history":[
+            {
+                "version_number":"0.8.15.8",
+                "patch_note":"Moga fixed square vfx"
+            },
             {
                 "version_number":"0.8.15.4",
                 "patch_note":"Fixed missing healthbar"

@@ -18,7 +18,7 @@ ROUTES.get("/posts/:post_title",async(req,res)=>{
             `<head>
             <meta property="og:title" content="${post.post_title}" />
             <meta property="og:description" content="${post.preview_text}" />
-            <meta property="og:image" content="/images/mods/${post_title}" />
+            <meta property="og:image" content="/images/mods/${post_title}.webp" />
             <meta property="og:url" content="https://www.swoggerslol.com/posts/${post_title}"
             `
         )
