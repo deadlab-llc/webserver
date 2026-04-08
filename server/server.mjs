@@ -27,7 +27,7 @@ const APOLLO = new ApolloServer({
     typeDefs,
     resolvers,
     // csrfPrevention:true,
-    introspection:false,
+    introspection:process.env.NODE_ENV!=="production",
     playground: false,
     cache:"bounded",
     plugins:[ApolloServerPluginCacheControl({defaultMaxAge:3600}),ApolloServerPluginLandingPageDisabled()]//Default cache is 1hr long
@@ -48,9 +48,6 @@ async function AttemptConnections(){
         //connect routes
         APP.use(LIMITER)
         APP.use(ROUTES)
-        APP.get("*", (req, res) => {
-            res.sendFile(join(__DIRNAME, "../client/dist", "index.html"));
-        });
         if(process.env.NODE_ENV=="production"){
             APP.get("/graphql", (req, res) => {
                 res.sendFile(join(__DIRNAME, "../client/dist", "index.html"));
