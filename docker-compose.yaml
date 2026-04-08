@@ -1,6 +1,8 @@
 services:
   website1:
     build: .
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
     ports:
       - "4001:3000"
     volumes:
@@ -10,6 +12,8 @@ services:
 
   website2:
     build: .
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
     ports:
       - "4002:3000"
     volumes:
@@ -19,6 +23,8 @@ services:
 
   website3:
     build: .
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
     ports:
       - "4003:3000"
     volumes:
