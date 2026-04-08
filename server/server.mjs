@@ -18,7 +18,7 @@ const APP = express()
 const PORT = process.env.PORT||3000;
 const LIMITER = rateLimit({
     windowMs:15*60*1000, //15 mins
-    max: 500, //Limit each IP to 100 requests per windowMs
+    max: 1000, //Limit each IP to 100 requests per windowMs
     message:"Too many requests, please try again later.",
     skip:(req)=>req.path.startsWith("data")||req.path.startsWith("images")||req.path.startsWith("videos")
 })

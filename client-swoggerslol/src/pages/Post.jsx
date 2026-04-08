@@ -61,7 +61,7 @@ export default function Post({set_nav_data}){
                             data.GetPostByPostName.version_history.map((element,index)=>(
                                 <tr key={index}>
                                     <td>{element.version_number}</td>
-                                    <td>{element.patch_note}</td>
+                                    <td dangerouslySetInnerHTML={{__html:element.patch_note}}/>
                                 </tr>
                             ))
                         }

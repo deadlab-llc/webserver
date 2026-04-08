@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start":"nodemon server/server.mjs",
-    "develop1":"concurrently \"cd server && npm start\" \"cd client && npm run develop\"",
-    "develop":"concurrently \"nodemon server/server.mjs\" \"cd client && npm run develop\"",
+    "develop":"concurrently \"nodemon server/server.mjs\" \"cd client-swoggerslol && npm run develop\"",
     "install": "cd server && npm i && cd ../client-swoggerslol && npm i && cd ../client-deadlab && npm i",
     "build":"cd client-swoggerslol && npm run build && cd ../client-deadlab && npm run build",
     "seed":"cd server && node seeds/index.mjs",
