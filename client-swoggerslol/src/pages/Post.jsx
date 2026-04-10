@@ -4,7 +4,7 @@ import { useParams } from "react-router-dom"
 import { GetPostByPostName } from "../utils/api/queries.mjs";
 import "./Post.css"
 
-const ModSection = (props,refs)=>{
+const ModSection = (props)=>{
     const sectionRef = useRef(null)
     useEffect(()=>{
         if(!sectionRef)return;
@@ -19,7 +19,7 @@ const ModSection = (props,refs)=>{
 
 export default function Post({set_nav_data}){
     const {post_name} = useParams();
-    const {loading,error,data} = useQuery(GetPostByPostName,{
+    const {loading,ERROR_,data} = useQuery(GetPostByPostName,{
         variables:{PostName:post_name.replace(/-/g," ")}
     })
     useEffect(()=>{
