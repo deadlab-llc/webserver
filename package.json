@@ -2,12 +2,13 @@
   "name": "swoggerslol",
   "version": "1.0.0",
   "scripts": {
-    "start":"nodemon server/server.mjs",
-    "develop":"concurrently \"nodemon server/server.mjs\" \"cd client-swoggerslol && npm run develop\"",
+    "start": "nodemon server/server.mjs",
+    "develop": "concurrently \"nodemon server/server.mjs\" \"cd client-swoggerslol && npm run develop\"",
     "install": "cd server && npm i && cd ../client-swoggerslol && npm i && cd ../client-deadlab && npm i",
-    "build":"cd client-swoggerslol && npm run build && cd ../client-deadlab && npm run build",
-    "seed":"cd server && node seeds/index.mjs",
-    "docker-rebuild": "docker compose down && docker compose build && docker compose up -d"
+    "build": "cd client-swoggerslol && npm run build && cd ../client-deadlab && npm run build",
+    "seed": "cd server && node seeds/index.mjs",
+    "docker-rebuild": "docker compose down && docker compose build && docker compose up -d",
+    "prepare": "husky"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,9 @@
   "description": "",
   "dependencies": {
     "concurrently": "^9.1.2"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "prettier": "^3.8.2"
   }
 }
- 

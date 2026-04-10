@@ -1,0 +1,3 @@
+npx prettier --write ./server
+npx prettier --write ./client-swoggerslol
+npx prettier --write ./client-deadlab
