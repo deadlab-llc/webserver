@@ -39,7 +39,7 @@ ROUTES.post("/update", async (req, res) => {
 		if (typeof req.body.post_title != "string" || typeof req.body.patch != "string") return res.status(400).send("invalid params");
 		let { post_title, patch } = req.body;
 		const post = await POSTS.findOne({
-			post_title: {$eq: post_title},
+			post_title: { $eq: post_title },
 		});
 		if (!post) return res.status(404).send("missing post");
 		post.version_history.unshift(patch);
