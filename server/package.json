@@ -20,7 +20,7 @@
   "homepage": "https://swoggerslol.com",
   "dependencies": {
     "@apollo/server": "^4.11.3",
-    "@apollo/utils.keyvadapter": "^4.0.0",
+    "@apollo/utils.keyvadapter": "^4.0.1",
     "@keyv/memcache": "^2.0.1",
     "body-parser": "^1.20.3",
     "cors": "^2.8.5",
