@@ -1,0 +1,20 @@
+version: 2
+updates:
+  #Check for npm package updates weekly
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      inverval: "weekly"
+  - package-ecosystem: "npm"
+    directory: "/server"
+    schedule:
+      inverval: "weekly"
+  - package-ecosystem: "npm"
+    directory: "/client-deadlab"
+    schedule:
+      inverval: "weekly"
+  - package-ecosystem: "npm"
+    directory: "/client-swoggerslol"
+    schedule:
+      inverval: "weekly"
+    open-pull-requests-limit: 5
