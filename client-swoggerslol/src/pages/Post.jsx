@@ -5,10 +5,7 @@ import { GetPostByPostName } from "../utils/api/queries.mjs";
 import "./Post.css";
 
 const ModSection = (props) => {
-	const sectionRef =
-		useRef(
-			null,
-		);
+	const sectionRef = useRef(null);
 	useEffect(() => {
 		if (
 			!sectionRef
@@ -32,26 +29,15 @@ const ModSection = (props) => {
 };
 
 export default function Post({ set_nav_data }) {
-	const {
-		post_name,
-	} =
-		useParams();
-	const {
-		loading,
-		ERROR_,
-		data,
-	} =
-		useQuery(
-			GetPostByPostName,
-			{
-				variables: {
-					PostName: post_name.replace(
-						/-/g,
-						" ",
-					),
-				},
-			},
-		);
+	const { post_name } = useParams();
+	const { loading, ERROR_, data } = useQuery(GetPostByPostName, {
+		variables: {
+			PostName: post_name.replace(
+				/-/g,
+				" ",
+			),
+		},
+	});
 	useEffect(() => {
 		if (
 			!data ||
@@ -70,31 +56,10 @@ export default function Post({ set_nav_data }) {
 				"Download",
 			],
 		);
-	}, [
-		data,
-	]);
-	if (
-		loading
-	)
-		return (
-			<div>
-				loading...
-			</div>
-		);
-	if (
-		!data ||
-		!data.GetPostByPostName
-	)
-		return (
-			<div>
-				Loading
-			</div>
-		);
-	document.title =
-		data
-			.GetPostByPostName
-			.post_title +
-		" | Valentine's mods";
+	}, [data]);
+	if (loading) return <div>loading...</div>;
+	if (!data || !data.GetPostByPostName) return <div>Loading</div>;
+	document.title = data.GetPostByPostName.post_title + " | Valentine's mods";
 	return (
 		<div className="mod-info flex flex-column ai-center bg-primary">
 			<h2
@@ -186,22 +151,11 @@ export default function Post({ set_nav_data }) {
 					</tbody>
 				</table>
 				<p className="text-center">
-					My
-					version
-					standard
-					is
-					as
-					follows:
+					{"My version standard is as follows:"}
 					<br />
-					&lt;MAJOR
-					UPDATE
-					NUM&gt;.&lt;MINOR
-					UPDATE
-					NUM&gt;.&lt;LEAGUE
-					VERSION&gt;.&lt;LEAGUE
-					VERSION&gt;
+					{"<MAJOR>.<MINOR>.<LEAGUE VERSION>.<LEAGUE VERSION>"}
 					<br />
-					IE,
+					{"IE,
 					version
 					1.8.13.14
 					=
@@ -214,7 +168,7 @@ export default function Post({ set_nav_data }) {
 					last
 					tested
 					on
-					13.14.
+					13.14."}
 				</p>
 			</section>
 			<div

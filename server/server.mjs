@@ -11,24 +11,16 @@ import { resolvers, typeDefs } from "./models/index.mjs";
 import { ApolloServerPluginCacheControl } from "@apollo/server/plugin/cacheControl";
 import { ApolloServerPluginLandingPageDisabled } from "@apollo/server/plugin/disabled";
 // import {default as cors} from "cors"
-import {
-	DEADLAB_CONNECTION,
-	SWOGGERSLOL_CONNECTION,
-} from "./config/connection.mjs";
+import { DEADLAB_CONNECTION, SWOGGERSLOL_CONNECTION } from "./config/connection.mjs";
 import { default as ApplyMiddleware } from "./config/middleware.mjs";
 import { ROUTES } from "./controllers/index.mjs";
 const APP = express();
 const PORT = process.env.PORT || 3000;
 const LIMITER = rateLimit({
-	windowMs:
-		15 *
-		60 *
-		1000, //15 mins
+	windowMs: 15 * 60 * 1000, //15 mins
 	max: 1000, //Limit each IP to 100 requests per windowMs
 	message: "Too many requests, please try again later.",
-	skip: (
-		req,
-	) =>
+	skip: (req) =>
 		req.path.startsWith(
 			"data",
 		) ||
@@ -44,11 +36,7 @@ const APOLLO = new ApolloServer({
 	typeDefs,
 	resolvers,
 	// csrfPrevention:true,
-	introspection:
-		process
-			.env
-			.NODE_ENV !==
-		"production",
+	introspection: process.env.NODE_ENV !== "production",
 	playground: false,
 	cache: "bounded",
 	plugins: [

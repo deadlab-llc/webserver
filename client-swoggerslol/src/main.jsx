@@ -2,19 +2,12 @@ import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import "./main.css";
 import "./index.css";
-import {
-	ApolloProvider,
-	ApolloClient,
-	HttpLink,
-	InMemoryCache,
-} from "@apollo/client";
+import { ApolloProvider, ApolloClient, HttpLink, InMemoryCache } from "@apollo/client";
 const client = new ApolloClient({
-	link: new HttpLink(
-		{
-			// uri:"https://www.swoggerslol.com/graphql"
-			uri: "/graphql",
-		},
-	),
+	link: new HttpLink({
+		// uri:"https://www.swoggerslol.com/graphql"
+		uri: "/graphql",
+	}),
 	cache: new InMemoryCache(),
 	connectToDevTools: true,
 });

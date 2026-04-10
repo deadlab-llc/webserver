@@ -1,9 +1,4 @@
-import {
-	BrowserRouter as Router,
-	Route,
-	Routes,
-	useLocation,
-} from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes, useLocation } from "react-router-dom";
 import { Link } from "react-router-dom";
 // import {Link} from "react-router"
 import "./main.css";
@@ -15,18 +10,13 @@ import { useEffect, useState } from "react";
 import { Banner, Navigation } from "./features/index";
 
 const ScrollToTop = () => {
-	const {
-		pathname,
-	} =
-		useLocation();
+	const { pathname } = useLocation();
 	useEffect(() => {
 		window.scrollTo(
 			0,
 			0,
 		);
-	}, [
-		pathname,
-	]);
+	}, [pathname]);
 	return null;
 };
 

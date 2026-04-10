@@ -1,11 +1,7 @@
 import { POSTS } from "../schemas/index.mjs";
 let POST_CACHE = null;
 async function getPosts() {
-	if (
-		!POST_CACHE
-	)
-		POST_CACHE =
-			await POSTS.find();
+	if (!POST_CACHE) POST_CACHE = await POSTS.find();
 	return POST_CACHE;
 }
 export const resolvers = {

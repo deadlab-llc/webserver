@@ -7,11 +7,7 @@ dotenv.config({ path: join(__DIRNAME, "../../.env") });
 const ROUTES = Router();
 import { POSTS } from "../schemas/posts.mjs";
 import { readFileSync } from "fs";
-const indexFilePath = join(
-	__DIRNAME,
-	"../../client-swoggerslol/dist",
-	"index.html",
-);
+const indexFilePath = join(__DIRNAME, "../../client-swoggerslol/dist", "index.html");
 const cachedHTML = readFileSync(indexFilePath, "utf8");
 ROUTES.get("/posts/:post_title", async (req, res) => {
 	try {
@@ -38,7 +34,17 @@ ROUTES.get("/posts/:post_title", async (req, res) => {
 				.send(
 					"Post not found",
 				);
-		const sanitized = (str) => str.replace(/[&<>"'&]/g, (c) => {`&#${c.charCodeAt(0)};`});
+		const sanitized =
+			(
+				str,
+			) =>
+				str.replace(
+					/[&<>"'&]/g,
+					(
+						c,
+					) =>
+						`&#${c.charCodeAt(0)};`,
+				);
 		const html =
 			cachedHTML.replace(
 				"<head>",
@@ -53,8 +59,17 @@ ROUTES.get("/posts/:post_title", async (req, res) => {
 			html,
 		);
 	} catch (error) {
-		console.log(error);
-		return res.status(500).send("Internal Server Error");
+		console.log(
+			error,
+		);
+		return res
+			.status(
+				500,
+			)
+			.send(
+				"Internal Server Error",
+			);
+	}
 });
 ROUTES.post("/update", async (req, res) => {
 	try {
@@ -88,7 +103,16 @@ ROUTES.post("/update", async (req, res) => {
 				.send(
 					"missing params",
 				);
-		if (typeof req.body.post_title != "string" || typeof req.body.patch != "string")
+		if (
+			typeof req
+				.body
+				.post_title !=
+				"string" ||
+			typeof req
+				.body
+				.patch !=
+				"string"
+		)
 			return res
 				.status(
 					400,
@@ -144,9 +168,7 @@ ROUTES.post("/update", async (req, res) => {
 	}
 });
 ROUTES.get("*", (req, res) => {
-	res.send(
-		cachedHTML,
-	);
+	res.send(cachedHTML);
 });
 
 export { ROUTES };

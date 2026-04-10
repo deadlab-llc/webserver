@@ -1,9 +1,6 @@
 import { useEffect, useRef } from "react";
 export default function Navigation({ data }) {
-	const navRef =
-		useRef(
-			null,
-		);
+	const navRef = useRef(null);
 	useEffect(() => {
 		if (
 			!navRef

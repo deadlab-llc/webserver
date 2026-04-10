@@ -32,62 +32,46 @@ const CarouselLoadItem = forwardRef((props, ref) => {
 });
 
 const CarouselItem = forwardRef((props, ref) => {
-	const changeVideo =
-		(
-			e,
-		) => {
-			const ele =
-				e
-					.target
-					.parentElement;
-			var chosenVid =
-				Math.floor(
-					Math.random() *
-						props
-							.videos
-							.length,
-				);
-			ele.href =
-				props.videos[
-					chosenVid
-				].youtube_link;
-			ele.querySelector(
-				".source",
-			).src =
-				"/videos/" +
-				props.videos[
-					chosenVid
-				].video_title.replace(
-					/\s+/g,
-					"-",
-				) +
-				".webm";
-			ele.querySelector(
-				".video-caption",
-			).innerText =
-				props.videos[
-					chosenVid
-				].video_title;
-			ele.querySelector(
-				".carousel-video",
-			).load();
-		};
+	const changeVideo = (e) => {
+		const ele =
+			e
+				.target
+				.parentElement;
+		var chosenVid =
+			Math.floor(
+				Math.random() *
+					props
+						.videos
+						.length,
+			);
+		ele.href =
+			props.videos[
+				chosenVid
+			].youtube_link;
+		ele.querySelector(
+			".source",
+		).src =
+			"/videos/" +
+			props.videos[
+				chosenVid
+			].video_title.replace(
+				/\s+/g,
+				"-",
+			) +
+			".webm";
+		ele.querySelector(
+			".video-caption",
+		).innerText =
+			props.videos[
+				chosenVid
+			].video_title;
+		ele.querySelector(
+			".carousel-video",
+		).load();
+	};
 
-	if (
-		!props.videos
-	)
-		return (
-			<div>
-				Loading...
-			</div>
-		);
-	const selectedVid =
-		Math.floor(
-			Math.random() *
-				props
-					.videos
-					.length,
-		);
+	if (!props.videos) return <div>Loading...</div>;
+	const selectedVid = Math.floor(Math.random() * props.videos.length);
 	return (
 		<a
 			ref={
@@ -140,35 +124,11 @@ const CarouselItem = forwardRef((props, ref) => {
 });
 
 export default function Carousel() {
-	const itemsRef =
-		useRef(
-			[],
-		);
-	const videosRef =
-		useRef(
-			[],
-		);
-	const [
-		isPlaying,
-		setPlaying,
-	] =
-		useState(
-			false,
-		);
-	const [
-		videos,
-		setVideos,
-	] =
-		useState(
-			null,
-		);
-	const [
-		refsReady,
-		setRefsReady,
-	] =
-		useState(
-			false,
-		);
+	const itemsRef = useRef([]);
+	const videosRef = useRef([]);
+	const [isPlaying, setPlaying] = useState(false);
+	const [videos, setVideos] = useState(null);
+	const [refsReady, setRefsReady] = useState(false);
 	let currentIndex = 0;
 	function showNextItem() {
 		if (
@@ -274,9 +234,7 @@ export default function Carousel() {
 		setPlaying(
 			true,
 		);
-	}, [
-		refsReady,
-	]);
+	}, [refsReady]);
 	useInterval(
 		() => {
 			showNextItem();
@@ -285,9 +243,7 @@ export default function Carousel() {
 			? 6000
 			: null,
 	);
-	if (
-		!videos
-	)
+	if (!videos)
 		return (
 			<div className="basic-text-style w-100 carousel">
 				{[

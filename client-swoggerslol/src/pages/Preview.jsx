@@ -2,10 +2,7 @@ import { Link } from "react-router-dom";
 import { useEffect, useRef } from "react";
 import "./Preview.css";
 export default function Preview({ data, index }) {
-	const prevTxtRef =
-		useRef(
-			null,
-		);
+	const prevTxtRef = useRef(null);
 	useEffect(() => {
 		if (
 			!data ||

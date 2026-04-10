@@ -1,15 +1,12 @@
 import { useEffect, useRef } from "react";
 
 function useInterval(callback, delay) {
-	const savedCallback =
-		useRef();
+	const savedCallback = useRef();
 
 	useEffect(() => {
 		savedCallback.current =
 			callback;
-	}, [
-		callback,
-	]);
+	}, [callback]);
 
 	useEffect(() => {
 		if (
@@ -31,9 +28,7 @@ function useInterval(callback, delay) {
 			clearInterval(
 				id,
 			);
-	}, [
-		delay,
-	]);
+	}, [delay]);
 }
 
 export default useInterval;

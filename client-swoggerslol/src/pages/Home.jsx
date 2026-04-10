@@ -6,48 +6,28 @@ import { Carousel, Announcements } from "../features/index.mjs";
 import "./Home.css";
 
 const chunkArray = (array, size) => {
-	return array.reduce(
-		(
-			acc,
-			_,
-			i,
-		) => {
-			if (
-				i %
-					size ===
-				0
-			)
-				acc.push(
-					array.slice(
-						i,
-						i +
-							size,
-					),
-				);
-			return acc;
-		},
-		[],
-	);
+	return array.reduce((acc, _, i) => {
+		if (
+			i %
+				size ===
+			0
+		)
+			acc.push(
+				array.slice(
+					i,
+					i +
+						size,
+				),
+			);
+		return acc;
+	}, []);
 };
 
 export default function Home({ set_nav_data }) {
 	//useEffect for when component mounts
 	//useState for storing fetched data
-	const {
-		loading,
-		error,
-		data,
-	} =
-		useQuery(
-			GetAllPosts,
-		);
-	const [
-		posts,
-		setPosts,
-	] =
-		useState(
-			[],
-		);
+	const { loading, error, data } = useQuery(GetAllPosts);
+	const [posts, setPosts] = useState([]);
 	useEffect(() => {
 		if (
 			data
@@ -69,26 +49,10 @@ export default function Home({ set_nav_data }) {
 				),
 			);
 		}
-	}, [
-		data,
-		set_nav_data,
-	]);
-	if (
-		loading
-	)
-		return (
-			<Preview
-				data={
-					posts
-				}
-			/>
-		);
-	if (
-		error
-	)
-		throw error;
-	document.title =
-		"Valentine's mods";
+	}, [data, set_nav_data]);
+	if (loading) return <Preview data={posts} />;
+	if (error) throw error;
+	document.title = "Valentine's mods";
 	return (
 		<>
 			<Carousel />

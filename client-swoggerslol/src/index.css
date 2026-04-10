@@ -8,9 +8,7 @@ a {
 	color: inherit;
 }
 html {
-	background-color: var(
-		--primary
-	);
+	background-color: var(--primary);
 	color: white;
 	font-family:
 		-apple-system,
@@ -27,185 +25,49 @@ table,
 table th,
 table td {
 	border-collapse: collapse;
-	border: 1px
-		solid
-		rgb(
-			34,
-			44,
-			63
-		) !important;
+	border: 1px solid rgb(34, 44, 63) !important;
 	border-collapse: collapse;
 	text-align: center;
 }
 /* #endregion */
 
 :root {
-	--primary: rgb(
-		6,
-		9,
-		15
-	); /*Dark blue*/
-	--secondary: rgb(
-		250,
-		199,
-		102
-	); /*Gold orange*/
-	--tertiary: rgb(
-		213,
-		102,
-		250
-	); /*Hot pink/purple*/
-	--quaternary: rgb(
-		102,
-		250,
-		208
-	); /*teal ish*/
+	--primary: rgb(6, 9, 15); /*Dark blue*/
+	--secondary: rgb(250, 199, 102); /*Gold orange*/
+	--tertiary: rgb(213, 102, 250); /*Hot pink/purple*/
+	--quaternary: rgb(102, 250, 208); /*teal ish*/
 
-	--darker-primary: color-mix(
-		in
-			srgb,
-		var(
-				--primary
-			)
-			50%,
-		rgb(
-			0,
-			3,
-			9
-		)
-	);
-	--darker-tertiary: color-mix(
-		in
-			srgb,
-		var(
-				--tertiary
-			)
-			31.5%,
-		black
-	);
+	--darker-primary: color-mix(in srgb, var(--primary) 50%, rgb(0, 3, 9));
+	--darker-tertiary: color-mix(in srgb, var(--tertiary) 31.5%, black);
 
-	--lighter-primary: color-mix(
-		in
-			srgb,
-		var(
-				--primary
-			)
-			97%,
-		rgb(
-			102,
-			153,
-			255
-		)
-	);
-	--lighter-secondary: color-mix(
-		in
-			srgb,
-		var(
-				--secondary
-			)
-			65%,
-		white
-	);
-	--lighter-tertiary: color-mix(
-		in
-			srgb,
-		var(
-				--tertiary
-			)
-			65%,
-		white
-	);
-	--lighter-quaternary: color-mix(
-		in
-			srgb,
-		var(
-				--quaternary
-			)
-			65%,
-		white
-	);
-	--lightest-primary: color-mix(
-		in
-			srgb,
-		var(
-				--primary
-			)
-			80%,
-		rgb(
-			102,
-			153,
-			255
-		)
-	);
+	--lighter-primary: color-mix(in srgb, var(--primary) 97%, rgb(102, 153, 255));
+	--lighter-secondary: color-mix(in srgb, var(--secondary) 65%, white);
+	--lighter-tertiary: color-mix(in srgb, var(--tertiary) 65%, white);
+	--lighter-quaternary: color-mix(in srgb, var(--quaternary) 65%, white);
+	--lightest-primary: color-mix(in srgb, var(--primary) 80%, rgb(102, 153, 255));
 
-	--lightest-secondary: color-mix(
-		in
-			srgb,
-		var(
-				--secondary
-			)
-			25%,
-		white
-	);
+	--lightest-secondary: color-mix(in srgb, var(--secondary) 25%, white);
 	--global-font-size: 17.5px;
-	font-size: clamp(
-		0.5rem,
-		2vw,
-		1rem
-	);
+	font-size: clamp(0.5rem, 2vw, 1rem);
 }
 .fs-large {
-	font-size: clamp(
-		0.85rem,
-		3vw,
-		1.5rem
-	);
+	font-size: clamp(0.85rem, 3vw, 1.5rem);
 }
 .fs-larger {
-	font-size: clamp(
-		1.25rem,
-		4vw,
-		2.5rem
-	);
+	font-size: clamp(1.25rem, 4vw, 2.5rem);
 }
 .fs-largest {
-	font-size: clamp(
-		2rem,
-		5vw,
-		3rem
-	);
+	font-size: clamp(2rem, 5vw, 3rem);
 }
 .txt-grad-r-rgb1-rgb2 {
-	background: linear-gradient(
-		to
-			right,
-		var(
-				--rgb1
-			)
-			0%,
-		var(
-				--rgb2
-			)
-			100%
-	);
+	background: linear-gradient(to right, var(--rgb1) 0%, var(--rgb2) 100%);
 	font-weight: 800;
 	color: transparent;
 	-webkit-background-clip: text;
 	background-clip: text;
 }
 .txt-grad-l-rgb1-rgb2 {
-	background: linear-gradient(
-		to
-			left,
-		var(
-				--rgb1
-			)
-			0%,
-		var(
-				--rgb2
-			)
-			100%
-	);
+	background: linear-gradient(to left, var(--rgb1) 0%, var(--rgb2) 100%);
 	font-weight: 800;
 	color: transparent;
 	-webkit-background-clip: text;
@@ -346,12 +208,8 @@ table td {
 }
 
 .shimmer {
-	animation: shimmer
-		3s
-		linear
-		infinite;
-	background-size: 200%
-		100%;
+	animation: shimmer 3s linear infinite;
+	background-size: 200% 100%;
 }
 @keyframes shimmer {
 	0% {
@@ -365,18 +223,14 @@ table td {
 }
 
 .bg-primary {
-	background-color: var(
-		--primary
-	);
+	background-color: var(--primary);
 }
 
 /*#region Commons*/
 
 /*#region Widths*/
 .w-x {
-	width: var(
-		--x
-	);
+	width: var(--x);
 }
 .w-100 {
 	width: 100%;
@@ -421,9 +275,7 @@ table td {
 
 /*#region Heights*/
 .h-x {
-	height: var(
-		--x
-	);
+	height: var(--x);
 }
 .h-100 {
 	height: 100%;
@@ -493,29 +345,15 @@ table td {
 	margin: auto;
 }
 .m-mx {
-	margin-left: var(
-		--mx
-	);
-	margin-right: var(
-		--mx
-	);
+	margin-left: var(--mx);
+	margin-right: var(--mx);
 }
 .m-my {
-	margin-top: var(
-		--my
-	);
-	margin-bottom: var(
-		--my
-	);
+	margin-top: var(--my);
+	margin-bottom: var(--my);
 }
 .m-mx-my {
-	margin:
-		var(
-			--my
-		),
-		var(
-			--mx
-		);
+	margin: var(--my), var(--mx);
 }
 .m-x-a {
 	margin-left: auto;
@@ -667,29 +505,15 @@ table td {
 
 /*#region Paddings*/
 .pad-px {
-	padding-left: var(
-		--px
-	);
-	padding-right: var(
-		--px
-	);
+	padding-left: var(--px);
+	padding-right: var(--px);
 }
 .pad-py {
-	padding-top: var(
-		--py
-	);
-	padding-bottom: var(
-		--py
-	);
+	padding-top: var(--py);
+	padding-bottom: var(--py);
 }
 .pad-px-py {
-	padding:
-		var(
-			--py
-		),
-		var(
-			--px
-		);
+	padding: var(--py), var(--px);
 }
 .pad-x-100 {
 	padding-left: 100%;
