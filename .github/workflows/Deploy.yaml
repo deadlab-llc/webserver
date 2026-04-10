@@ -24,4 +24,4 @@ jobs:
             git pull && 
             npm i && 
             npm run build && 
-            sudo npm run docker-rebuild"
+            npm run docker-rebuild"
