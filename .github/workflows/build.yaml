@@ -11,24 +11,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       #grab code
-      -uses: actions/checkout@v4
-      #install node
-      -uses: actions/setup-node@v4
-      with:
-        node-version: 22
+      - uses: actions/checkout@v4
+        #install node
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
       #install and build swoggerslol
-      -name: Build client-swoggerslol
-      run: |
-        cd client-swoggerslol
-        npm install
-        npm run build
-      -name: Build client-deadlab
-      run: |
-        cd client-deadlab
-        npm install
-        npm run build
-      -name: Auto-merge Dependabot pull_request
-      if: github-actor == 'dependabot[bot]'
-      run: gh pr merge --auto --squash "${{ github.event.pull_request.html_url }}"
-      env:
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Build client-swoggerslol
+        run: |
+          cd client-swoggerslol
+          npm install
+          npm run build
+      - name: Build client-deadlab
+        run: |
+          cd client-deadlab
+          npm install
+          npm run build
+      - name: Auto-merge Dependabot pull_request
+        if: github-actor == 'dependabot[bot]'
+        run: gh pr merge --auto --squash "${{ github.event.pull_request.html_url }}"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
