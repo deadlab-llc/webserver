@@ -30,3 +30,4 @@ services:
 networks:
   webnet:
     driver: bridge
+    external: true
