@@ -1,958 +1,976 @@
-[{
-  "post_title": "DMC5 Nero as Aatrox",
-  "preview_text": "Theres a lot of missing animations and VFX that need to be finished",
-  "is_active_project": true,
-  "entry": [],
-  "version_history": []
-},{
-  "post_title": "League May Audio 5",
-  "preview_text": "The buggiest POS I've ever made...but when it works, its game changing",
-  "is_active_project": true,
-  "entry": [],
-  "version_history": []
-},{
-  "post_title": "DMC5 Vergil as Yasuo",
-  "preview_text": "The Legendary Son of Sparda from DMC5 playing as Drunk Homeless Man from League of Legends",
-  "entry": [
-    {
-      "entry_title": "Demonstration",
-      "entry_body": "<video controls class='basic-video-style m-y-5 m-x-a text-center w-50'><source src='/videos/large/DMC5-Vergil-as-Yasuo.webm' type='video/webm'></video>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "2.0 Update is LIVE!",
-      "entry_body": "<h3 class='fs-large text-center highlight-text-style'>2.0 Update is LIVE!</h3><p class='text-center bold'>NEW NEW NEWWWW!!!!<br>I FIXED YASUO'S HUNCHED BACK!! VERGIL HAS BEEN CURED!</p><video controls style='margin-bottom:3%;margin-top:3%' class='basic-video-style m-x-a text-center w-50'><source src='/videos/large/DMC5-Vergil-as-Yasuo-2.0.webm' type='video/webm'></video>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Mod info",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>For BASE SKIN Yasuo only. Will not work with other skins!</p>"
-    },
-    {
-      "entry_title": "Description",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Description</h3><div class='simple-underline'></div><p class=' text-center w-50 m-x-a'>For when you're literally the story that is approaching. I PROMISE you, you'll be a better Yasuo player with this mod. IDK why. </p>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Credits",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>The assets were sourced by CAPCOM's DMC5 video game! All rights go to their respective owners. I do not claim to own any of the work/assets used by the mod.I do claim ownership of the <i>effort</i> put behind the formation of the mod itself.</p>"
-    },
-    {
-      "entry_title": "Bugs",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center  highlight-text-style'>Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>None so far! Join the discord to report any problems you have with the mod!</p>"
-    },
-    {
-      "entry_title": "How to contribute",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT! Send me a DM and I'll give you whatever file you need to get started, including the link to the repo! Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
-    },
-    {
-      "entry_title": "Mod rank",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table style='border: 1px solid grey;' class='text-center w-90 m-x-a m-y-1'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th>The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td class='fs-large'>X</td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th>Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td></td><td></td><td colspan='2' class='fs-large ' >X</td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th>Untouched</th><th>Some voice lines were changed</th><th  >All the voice lines were changed</th><th>Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td></td><td></td><td></td><td class='fs-large' >X</td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'>I made them 😭</th><th>Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td class='fs-large'>X</td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td></td><td ></td><td></td><td colspan='2' class='fs-large'>X</td></tr></table><div style='margin-bottom:5%' class='flex jc-center flex-column ai-center m-y-1'><div class='text-center'>This mod is considered:</div><img class='w-20 m-x-a text-center' src='/images/SS.webp'/></div>",
-      "is_underlined": true
-    }
-  ],
-  "version_history": [
-    {
-      "version_number": "2.2.15.9",
-      "patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
-    },
-    {
-      "version_number": "2.2.15.4",
-      "patch_note": "Fixed missing healthbar"
-    },
-    {
-      "version_number": "2.1.14.18",
-      "patch_note": "Fixed bug with squares/missing assets on Flying Judgement Cut"
-    },
-    {
-      "version_number": "2.1.14.17",
-      "patch_note": "Updated healthbar to fix font size"
-    },
-    {
-      "version_number": "2.1.14.15",
-      "patch_note": "Fixed squares that would appear on tornado"
-    },
-    {
-      "version_number": "2.1.14.14",
-      "patch_note": "Updated to newest patch"
-    },
-    {
-      "version_number": "2.1.14.13",
-      "patch_note": "Had a really awesome particle effect for Vergil, but the inconsistency of cslol/ritobin prevented me from using it"
-    },
-    {
-      "version_number": "2.0.14.10",
-      "patch_note": "Consolidated similar mods into single folder;Updated skin animations to match DMC5 vergil anims"
-    },
-    {
-      "version_number": "1.11.14.1",
-      "patch_note": "Fixed vfx flying away from Yasuo"
-    },
-    {
-      "version_number": "1.10.13.8",
-      "patch_note": "Fixed broken ability descriptions"
-    },
-    {
-      "version_number": "1.9.13.4",
-      "patch_note": "Fixed frozen animations that Vergil would do after joke"
-    }
-  ]
-},{
-  "post_title": "DMC5 Doppelganger as Yasuo",
-  "preview_text": "The Doppelganger clone as Yasuo. Works well with Vergil as Yone",
-  "download_url_override": "https://github.com/AlecRuin/DMC5-Vergil-as-Yasuo/releases/latest",
-  "entry": [
-    {
-      "entry_title": "Demonstration",
-      "entry_body": "<video controls class='basic-video-style w-50 m-y-5 m-x-a'><source src='/videos/DMC5-Doppelganger-as-Yasuo.webm' type='video/webm'></video>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Mod info",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>For BASE SKIN Yasuo only. Will not work with other skins!</p>"
-    },
-    {
-      "entry_title": "Description",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>I made this skin because I wanted an excuse to play windshitters bot. And if Yone is already Vergil, I will simply source a different Vergil. </p>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Credits",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>The assets were sourced by CAPCOM's DMC5 video game! All rights go to their respective owners. I do not claim to own any of the work/assets used by the mod. I do claim ownership of the <i>effort</i> put behind the formation of the mod itself.</p>"
-    },
-    {
-      "entry_title": "Bugs",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>He looks low-key kinda fugly</p>"
-    },
-    {
-      "entry_title": "How to contribute",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT! Send me a DM and I'll give you whatever file you need to get started, including the link to the repo! Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
-    },
-    {
-      "entry_title": "Mod rank",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-x-a m-y-1'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th >What are weights???</th><th >The model was given rough-weights</th><th >The model has 0.5 weights on major joints, like arms and legs</th><th >The model was 100% weighted by me</th><th >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td class=''>X</td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th >I made them 😭</th><th >Riot Games™ made them 😔</th><th >Some animations were replaced utilizing various techniques</th><th >Animations were created by source animations mirroring to the rig</th><th >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td></td><td></td><td class=' ' >X</td><td></td></tr><tr class=''  style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th >I made them 😭</th><th >Untouched</th><th >Some voice lines were changed</th><th >All the voice lines were changed</th><th >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td >X</td><td></td><td></td><td class=' ' >X</td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2' >I made them 😭</th><th >Untouched</th><th colspan='2' >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td class=''>X</td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th >Untouched</th><th >Color-shifted</th><th >Adjusted/Trimmed/Tweaked</th><th colspan='2' >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td></td><td></td><td></td><td colspan='2' class=' ' >X</td></tr></table><div class='flex ai-center flex-column m-y-1'><div class='text-center'>This mod is considered:</div><img class='w-20 m-x-a text-center' src='/images/SS.webp'/></div>",
-      "is_underlined": true
-    }
-  ],
-  "version_history": [
-    {
-      "version_number": "2.0.14.17",
-      "patch_note": "Updated animations, updated tornado, and fixed healthbar"
-    },
-    {
-      "version_number": "1.3.14.15",
-      "patch_note": "Fixed doppelganger icon;Fixed skin not playing audio"
-    },
-    {
-      "version_number": "1.2.14.10",
-      "patch_note": "Added ahri vfx to entire body to create shimmer"
-    },
-    {
-      "version_number": "1.1.13.8",
-      "patch_note": "Fixed weights"
-    },
-    {
-      "version_number": "1.0.13.5",
-      "patch_note": "Skin released to public"
-    }
-  ]
-},{
-  "post_title": "DMC5 Nero as Blitzcrank",
-  "preview_text": "The deadweight himself as my feeding support! I had daydreams of Nero being Blitzcrank, and I finally got around to making it",
-  "entry": [
-    {
-      "entry_title": "Demonstration",
-      "entry_body": "<video controls class='basic-video-style m-y-5 m-x-a text-center w-50'><source src='/videos/large/DMC5-Deadweight-as-Blitzcrank.webm' type='video/webm'></video>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "2.0 Update",
-      "entry_body": "<h3 class='fs-large text-center highlight-text-style'>2.0 Update is LIVE!</h3><p class='text-center bold w-50 m-x-a'>NEW NEW NEWWWW!!!!<br>NERO DOESNT HAVE THE WORST, EYE-BLEEDING, SOUL-TEARING ANIMATIONS ANYMORE!</p><video controls style='margin-bottom:3%;margin-top:3%' class='basic-video-style w-50 m-x-a'><source src='/videos/large/DMC5-Nero-as-Blitzcrank-2.0.webm' type='video/webm'></video>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Mod info",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>For BASE SKIN Blitzcrank only. Will not work with other skins!</p>"
-    },
-    {
-      "entry_title": "Description",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>I woke up in a cold sweat and realized that Nero and Blitzcrank share too many abilities. And then my quest started. This skin might honestly make you a worse Blitzcrank player, but at least you'll look stylish</p>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Credits",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>The assets were sourced by CAPCOM's DMC5 video game! All rights go to their respective owners. I do not claim to own any of the work/assets used by the mod. I do claim ownership of the <i>effort</i> put behind the formation of the mod itself.</p>"
-    },
-    {
-      "entry_title": "Bugs",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>His channel and laugh animations aren't done. I have no intentions of fixing it because its a reminder of what the skin looked like before I had to animated it. But it adds charm to the skin, AND YOURE FREAKING NERO!!!! Also, when his shield passive is proc'd, he will keep saying 'told you, told you, told you' on repeat. That is my fault; I didn't know Blitz played that sound on repeat</p>"
-    },
-    {
-      "entry_title": "How to contribute",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT! Send me a DM and I'll give you whatever file you need to get started, including the link to the repo! Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
-    },
-    {
-      "entry_title": "Mod rank",
-      "entry_body": "<h3 style='margin-bottom:0px'  class='fs-large text-center mbt-0rem highlight-text-style'>Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-x-a m-y-1'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td class=''>X</td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td></td><td></td><td class=' ' >X</td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td></td><td></td><td></td><td class=' ' >X</td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td></td><td colspan='2' class=' ' >X</td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td></td><td ></td><td></td><td colspan='2' class=' ' >X</td></tr></table><div class='w-100 flex flex-column ai-center m-x-a jc-center m-y-1'><div class='text-center'>This mod is considered:</div><img class='w-20 m-x-a text-center m-y-1' src='/images/SSS.webp'/></div>",
-      "is_underlined": true
-    }
-  ],
-  "version_history": [
-    {
-      "version_number": "2.2.15.9",
-      "patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
-    },
-    {
-      "version_number": "2.2.15.4",
-      "patch_note": "Fixed missing healthbar"
-    },
-    {
-      "version_number": "2.2.14.17",
-      "patch_note": "Nero's hair will now use the transparency property in his texture file;No longer say 'told ya' every second his passive is up;Shrunk icons to fit inside better"
-    },
-    {
-      "version_number": "2.1.14.16",
-      "patch_note": "Gave cool icons to Nero Blitz's abilities"
-    },
-    {
-      "version_number": "2.0.14.10",
-      "patch_note": "His animations have been replaced to resemble Nero's"
-    },
-    {
-      "version_number": "1.3.13.8",
-      "patch_note": "Fixed all anims to not have locked keyframes after finished"
-    },
-    {
-      "version_number": "1.2.13.2",
-      "patch_note": "WHY IS HE SO SMALL?????????"
-    },
-    {
-      "version_number": "1.1.13.1",
-      "patch_note": "Unknown change"
-    }
-  ]
-},{
-  "post_title": "DMC5 Dante as Samira",
-  "preview_text": "The <i>other</i> Legendary Son of Sparda from DCM5 playing as Dante-wannabe from League of Legends",
-  "entry": [
-    {
-      "entry_title": "Demonstration",
-      "entry_body": "<video controls class='basic-video-style m-y-5 m-x-a text-center w-50'><source src='/videos/large/DMC5-Dante-as-Samira.webm' type='video/webm'></video>"
-    },
-    {
-      "entry_title": "Mod info",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>For BASE SKIN Samira only. Will not work with other skins!</p>"
-    },
-    {
-      "entry_title": "Description",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>J A C K P O T.<br>This is a reskin of <a class='basic-anchor-style no-decor' href='https://www.runeforge.io/post/dante-samira'>Kinghound's Dante as Samira skin</a>The original mod used DMC3 Dante. This mod replaces the voicelines and model with DMC5 assets.</p>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Credits",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'> The assets were sourced by CAPCOM's DMC5 video game! All rights go to their respective owners. I do not claim to own any of the work/assets used by the mod. I do claim ownership of the <i>effort</i> put behind the formation of the mod itself.</p>"
-    },
-    {
-      "entry_title": "Bugs",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>His body looks horribly deformed. Yes, I know. Samira's body DOES NOT line up to Dante's at all. Because of this, the sword is also piercing his back. To fix this, you'd need to reanimate the skin, and there's around 80 animations for base skin Samira. And I don't get paid to do any of this. My obsession fuels me.</p>"
-    },
-    {
-      "entry_title": "How to contribute",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'> How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'> ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT! Send me a DM and I'll give you whatever file you need to get started, including the link to the repo! Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
-    },
-    {
-      "entry_title": "Optional software",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Optional software</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>I made a macro that scans your screen and plays music based on your ult status as Samira. You can use any song you'd like, but I personally use Subhuman and Devil Trigger.    You must have a way to measure your screen, in pixels, and a text editor. If you have any troubles, or want the songs I use, please join my discord server and ping me!</p><a  style='margin-bottom:3%' target='_blank' class='basic-button w-15 no-decor m-x-a' href='https://github.com/AlecRuin/Samira-Rank-Autoplayer/releases/latest'><div class='txt-grad-quaternary shimmer text-center '>Download optional software</div></a>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Mod rank",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table  class='text-center w-90 m-x-a m-y-1'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td class='fs-large'>X</td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td colspan='2' class='fs-large ' >X</td><td></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td></td><td></td><td class='fs-large' >X</td><td></td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2' class='fs-large ' >X</td><td></td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td class='fs-large'>X</td><td></td><td></td><td colspan='2'></td></tr></table><div class='flex jc-center flex-column ai-center m-y-1'><div class='text-center'>This mod is considered:</div><img class='w-20' src='/images/SS.webp'/></div>",
-      "is_underlined": true
-    }
-  ],
-  "version_history": [
-    {
-      "version_number": "1.9.15.9",
-      "patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
-    },
-    {
-      "version_number": "1.9.15.4",
-      "patch_note": "Fixed missing healthbar"
-    },
-    {
-      "version_number": "1.9.15.3",
-      "patch_note": "Fixed missing squares again"
-    },
-    {
-      "version_number": "1.9.15.2",
-      "patch_note": "Fixed squares;Made ult show Devil Trigger again;Fixed floating coin; Made sword idle not pierce the back"
-    },
-    {
-      "version_number": "1.8.15.1",
-      "patch_note": "Updated to work with the new skin line"
-    },
-    {
-      "version_number": "1.7.14.17",
-      "patch_note": "Fixed font size of name above healthbar"
-    },
-    {
-      "version_number": "1.7.14.15",
-      "patch_note": "Fixed. Squares"
-    },
-    {
-      "version_number": "1.7.14.14",
-      "patch_note": "Fixed squares"
-    },
-    {
-      "version_number": "1.7.14.13",
-      "patch_note": "Fixed evil red squares. Again"
-    },
-    {
-      "version_number": "1.6.14.10",
-      "patch_note": "Fix coat to legs"
-    },
-    {
-      "version_number": "1.5.14.5",
-      "patch_note": "Replaced voice lines with other voice lines from DMC5"
-    },
-    {
-      "version_number": "1.0.13.8",
-      "patch_note": "Released skin to public"
-    }
-  ]
-},{
-  "post_title": "DMC5 Dante as Riven",
-  "preview_text": "This skin replaces Riven from League of Legends to Dante from DMC5. This mod was originally made for a friend, and as suck, gets to have a custom message written onto the loading screen image.",
-  "entry": [
-    {
-      "entry_title": "Demonstration",
-      "entry_body": "<video controls class='basic-video-style m-y-5 m-x-a w-50''><source src='/videos/large/DMC5-Dante-as-Riven.webm' type='video/webm'></video>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Mod info",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>For BASE SKIN Riven only. Will not work with other skins!</p>"
-    },
-    {
-      "entry_title": "Description",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>My friend, Kiril, is a huge Dante fan and mains Riven. So he asked me to make this mod and I did.</p>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Credits",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>The assets were sourced by CAPCOM's DMC5 video game! All rights go to their respective owners. I do not claim to own any of the work/assets used by the mod. I do claim ownership of the <i>effort</i> put behind the formation of the mod itself.</p>"
-    },
-    {
-      "entry_title": "Bugs",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>Some particle effects got through me and are still green :&#40;</p>"
-    },
-    {
-      "entry_title": "How to contribute",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'> ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT! Send me a DM and I'll give you whatever file you need to get started, including the link to the repo! Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
-    },
-    {
-      "entry_title": "Mod rank",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-y-1 m-x-a'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td class='fs-large'>X</td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td colspan='2' class='fs-large ' >X</td><td></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td></td><td></td><td class='fs-large ' >X</td><td></td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2' class='fs-large ' >X</td><td></td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td></td><td class='fs-large'>X</td><td></td><td colspan='2'></td></tr></table><div class='flex jc-center flex-column ai-center m-y-1'><div>This mod is considered:</div><img class='w-20' src='/images/S.webp'/></div>",
-      "is_underlined": true
-    }
-  ],
-  "version_history": [
-    {
-      "version_number": "1.3.15.5",
-      "patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
-    },
-    {
-      "version_number": "1.3.15.4",
-      "patch_note": "Fixed missing healthbar"
-    },
-    {
-      "version_number": "1.3.15.3",
-      "patch_note": "Fixed missing assets with shockwave VFX"
-    },
-    {
-      "version_number": "1.3.14.17",
-      "patch_note": "Fixed font size of name above healthbar"
-    },
-    {
-      "version_number": "1.2.14.13",
-      "patch_note": "Replaced joke and taunt animation as well as voice line"
-    },
-    {
-      "version_number": "1.1.14.11",
-      "patch_note": "Fixed weight on coat on the legs, ability tool tips are no longer broken"
-    },
-    {
-      "version_number": "1.0.14.10",
-      "patch_note": "Skin released to public"
-    }
-  ]
-},{
-  "post_title": "DMC5 V as Hwei",
-  "preview_text": "My gf asked for this skin for MONTHS. And when I <i>finally</i> get around to making it, she still uses the winterblessed skin. 😭",
-  "entry": [
-    {
-      "entry_title": "Demonstration",
-      "entry_body": "<video controls class='basic-video-style m-y-5 m-x-a w-50'><source src='/videos/large/DMC5-V-as-Hwei.webm' type='video/webm'></video>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Mod info",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>For BASE SKIN Hwei only. Will not work with other skins!</p>"
-    },
-    {
-      "entry_title": "Description",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>She has been asking me to make this skin SINCE the champion was released 😔 Fine, here you go. Just please don't make me play base skin Smolder again 😭</p>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Credits",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>The assets were sourced by CAPCOM's DMC5 video game! All rights go to their respective owners. I do not claim to own any of the work/assets used by the mod. I do claim ownership of the <i>effort</i> put behind the formation of the mod itself.</p>"
-    },
-    {
-      "entry_title": "Bugs",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Bugs</h3>s<div class='simple-underline'></div><p class='text-center w-50 m-x-a'>His skin pierces through his coat on some animations</p>"
-    },
-    {
-      "entry_title": "How to contribute",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT! Send me a DM and I'll give you whatever file you need to get started, including the link to the repo! Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
-    },
-    {
-      "entry_title": "Mod rank",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-x-a m-y-1'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td></td><td class='fs-large ' >X</td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td class='fs-large'>X</td><td></td><td></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td></td><td></td><td class='fs-large' >X</td><td></td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td class='fs-large'>X</td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td class='fs-large'>X</td><td></td><td></td><td colspan='2'></td></tr></table><div class='flex jc-center flex-column ai-center m-y-1'><div>This mod is considered:</div><img class='w-20' src='/images/S.webp'/></div>",
-      "is_underlined": true
-    }
-  ],
-  "version_history": [
-    {
-      "version_number": "1.1.15.14",
-      "patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
-    },
-    {
-      "version_number": "1.0.15.5",
-      "patch_note": "Fixed square vfx"
-    },
-    {
-      "version_number": "1.0.15.4",
-      "patch_note": "Fixed missing healthbar"
-    },
-    {
-      "version_number": "1.0.15.3",
-      "patch_note": "Regenerated missing assets and fixed bin"
-    },
-    {
-      "version_number": "1.0.14.17",
-      "patch_note": "Fixed bug where name above healthbar would be incorrect font size"
-    },
-    {
-      "version_number": "1.0.14.10",
-      "patch_note": "Skin released to public"
-    }
-  ]
-},{
-  "post_title": "DMC5 Vergil as Yone",
-  "preview_text": "Replaces Yone as DMC5 Vergil. Works really well with DMC5 Doppelganger as Yasuo. (I do not condone the behavior of windshitters bot. Lose LP at your own discretion)",
-  "entry": [
-    {
-      "entry_title": "Demonstration",
-      "entry_body": "<video controls class='basic-video-style m-y-5 m-x-a text-center w-50'><source src='/videos/large/DMC5-Vergil-as-Yone.webm' type='video/webm'></video>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Mod info",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>For BASE SKIN Yone only. Will not work with other skins!</p>"
-    },
-    {
-      "entry_title": "Description",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>I made this skin because scuttle's skin didn't meet my gf's high expectations. She doesn't even like this skin 😔 SHES NOT EVEN A YONE PLAYER 😭</p>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Credits",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>The assets were sourced by CAPCOM's DMC5 video game! All rights go to their respective owners. I do not claim to own any of the work/assets used by the mod. I do claim ownership of the <i>effort</i> put behind the formation of the mod itself.</p>"
-    },
-    {
-      "entry_title": "Bugs",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>The Taunt and Dance look terrible and have a bad loop</p>"
-    },
-    {
-      "entry_title": "How to contribute",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'> How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'> ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT! Send me a DM and I'll give you whatever file you need to get started, including the link to the repo! Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
-    },
-    {
-      "entry_title": "Mod rank",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-y-1 m-x-a'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td class='fs-large'>X</td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td class='fs-large'>X</td><td></td><td></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td></td><td></td><td></td><td class='fs-large ' >X</td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td class='fs-large'>X</td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td></td><td class='fs-large'>X</td><td></td><td colspan='2'></td></tr></table><div class='flex jc-center flex-column ai-center m-y-1'><div class=''>This mod is considered:</div><img class='w-30 mbt-1rem' src='/images/A.webp'/></div>",
-      "is_underlined": true
-    }
-  ],
-  "version_history": [
-    {
-      "version_number": "1.0.16.3",
-      "patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
-    },
-    {
-      "version_number": "1.0.15.4",
-      "patch_note": "Fixed missing healthbar;Fixed E crash"
-    },
-    {
-      "version_number": "1.0.15.3",
-      "patch_note": "Fixed bug that caused ghostblade to become white"
-    },
-    {
-      "version_number": "1.0.14.17",
-      "patch_note": "Fixed bug where healthbar wouldn't show up"
-    },
-    {
-      "version_number": "1.0.14.10",
-      "patch_note": "Released skin to public"
-    }
-  ]
-},{
-  "post_title": "DMC5 Griffon as Smolder",
-  "preview_text": "I REALLY hated listening to Annoying Disney Character (ADC)(Smolder) speak. So I rushed this mod as quick as possible. Works really well with DMC5 V as Hwei. ",
-  "entry": [
-    {
-      "entry_title": "Mod info",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>For BASE SKIN Smolder only. Will not work with other skins!</p>"
-    },
-    {
-      "entry_title": "Description",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'> Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>This is supposed to be paired up with \"DMC5 V as Hwei\" and played botlane. But as I was playing base-skin Smolder, I REALLY hated his voice, and his look, and anims, and everything. So I rushed this skin out and use this whenever I have to play Smolder. So there is no video for him, because he's probably the lowest-effort skin I've ever made</p>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Credits",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>The assets were sourced by CAPCOM's DMC5 video game! All rights go to their respective owners. I do not claim to own any of the work/assets used by the mod. I do claim ownership of the <i>effort</i> put behind the formation of the mod itself.</p>"
-    },
-    {
-      "entry_title": "Bugs",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>He looks awful :&#40;</p>"
-    },
-    {
-      "entry_title": "How to contribute",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT! Send me a DM and I'll give you whatever file you need to get started, including the link to the repo! Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
-    },
-    {
-      "entry_title": "Mod rank",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-x-a m-y-1'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td class='fs-large'>X</td><td></td><td></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td class='fs-large'>X</td><td></td><td></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td></td><td></td><td class='fs-large'>X</td><td></td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td class='fs-large'>X</td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td class='fs-large'>X</td><td></td><td></td><td colspan='2'></td></tr></table><div class='flex flex-column  ai-center jc-center'><div class=''>This mod is considered:</div><img class='w-20' src='/images/D.webp'/></div>",
-      "is_underlined": true
-    }
-  ],
-  "version_history": [
-    {
-      "version_number": "0.8.15.9",
-      "patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
-    },
-    {
-      "version_number": "0.8.15.4",
-      "patch_note": "Fixed missing healthbar"
-    },
-    {
-      "version_number": "0.8.14.17",
-      "patch_note": "Fixed font size of name above healthbar"
-    },
-    {
-      "version_number": "0.8.14.13",
-      "patch_note": "Unknown change"
-    },
-    {
-      "version_number": "0.8.14.10",
-      "patch_note": "Added rough weights and voice lines"
-    }
-  ]
-},{
-  "post_title": "Full Build Gwen",
-  "preview_text": "Gwen but shes in permanent doll mode. Extremely adorable and demoralizing to lose against",
-  "download_url_override": "https://discord.gg/GA4fsA8xxK",
-  "entry": [
-    {
-      "entry_title": "Demonstration",
-      "entry_body": "<video controls class='basic-video-style m-y-5 m-x-a w-50'><source src='/videos/large/Full-Build-Gwen.webm' type='video/webm'></video>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Mod info",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>For every skin and chroma!</p>"
-    },
-    {
-      "entry_title": "Description",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>AKA, Gwen, but she is permanently a doll skin mod. Imagine dying to a wittle doll lmao.</p>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Credits",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>Riot's assets and my effort to keep her at 100% power</p>"
-    },
-    {
-      "entry_title": "Bugs",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>I made the animations 😔</p>"
-    },
-    {
-      "entry_title": "How to contribute",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT! Send me a DM and I'll give you whatever file you need to get started, including the link to the repo! Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
-    },
-    {
-      "entry_title": "Mod rank",
-      "entry_body": "<h3 class='fs-large text-center mbt-0rem highlight-text-style'>Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-y-1 m-x-a'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td>X</td><td class='fs-large'>X</td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td class='fs-large'>X</td><td></td><td></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td class='fs-large ' >X</td><td></td><td></td><td></td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td class='fs-large'>X</td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td class='fs-large'>X</td><td></td><td></td><td colspan='2'></td></tr></table><div class='flex jc-center flex-column ai-center m-y-1'><div class=''>This mod is considered:</div><img class='w-20' src='/images/SS.webp'/></div>",
-      "is_underlined": true
-    }
-  ],
-  "version_history": [
-    {
-      "version_number": "15.14.1.6",
-      "patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
-    },
-    {
-      "version_number": "1.5.15.4",
-      "patch_note": "Fixed missing healthbar"
-    },
-    {
-      "version_number": "1.5.15.3",
-      "patch_note": "Fixed missing portait in loading screen"
-    },
-    {
-      "version_number": "1.5.14.21",
-      "patch_note": "Fixed bug where Battle Queen had broken recall and portaits"
-    },
-    {
-      "version_number": "1.5.14.20",
-      "patch_note": "Fixed bug where space grooce gwen would still have a dress and hair, and soul fighter would still show body"
-    },
-    {
-      "version_number": "1.5.14.19",
-      "patch_note": "Fixed bug where icon and voice lines weren't being played"
-    },
-    {
-      "version_number": "1.5.14.17",
-      "patch_note": "Fixed bug where name above healthbar would be incorrect font size;Fixed bug where mod didnt support newest skin"
-    }
-  ]
-},{
-  "post_title": "DMC4 Berial as Hecarim",
-  "preview_text": "This skin mod replaces Hecarim from League of Legends with Berial from DMC4. This mod was requested and dedicated for Pinhetro",
-  "entry": [
-    {
-      "entry_title": "Demonstration",
-      "entry_body": "<video controls class='basic-video-style m-y-5 m-x-a w-50'><source src='/videos/large/DMC4-Berial-as-Hecarim.webm' type='video/webm'></video>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Mod info",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center m-x-a w-50'>For BASE SKIN Hecarim only. Will not work with other skins!</p>"
-    },
-    {
-      "entry_title": "Description",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>I asked a poll of what the next skin mod should be, and Pinhetro voted for this skin. It wasn't the first to be made, but because he voted, this skin was <i>eventually</i> made and dedicated to him.</p>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Credits",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>The assets were sourced by CAPCOM's DMC4 video game! All rights go to their respective owners. I do not claim to own any of the work/assets used by the mod. I do claim ownership of the <i>effort</i> put behind the formation of the mod itself.</p>"
-    },
-    {
-      "entry_title": "Bugs",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>Some particle effects are still Hecarim's, and every patch runs the risk of turning all the particle effects into squares. His tail is also stiff, but thats because Hecarim's tail is so small 😂</p>"
-    },
-    {
-      "entry_title": "How to contribute",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT!    Send me a DM and I'll give you whatever file you need to get started, including the link to the repo! Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
-    },
-    {
-      "entry_title": "Mod rank",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-x-a m-y-1'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td class='fs-large'>X</td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td colspan='2' class='fs-large ' >X</td><td></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td class='fs-large ' >X</td><td></td><td></td><td></td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td class='fs-large'>X</td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td></td><td class='fs-large'>X</td><td></td><td colspan='2'></td></tr></table><div class='flex flex-column ai-center jc-center'><div class=''>This mod is considered:</div><img class='w-20' src='/images/A.webp'/></div>",
-      "is_underlined": true
-    }
-  ],
-  "version_history": [
-    {
-      "version_number": "15.14.1.1",
-      "patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
-    },
-    {
-      "version_number": "1.0.15.4",
-      "patch_note": "Fixed missing healthbar"
-    },
-    {
-      "version_number": "1.0.14.17",
-      "patch_note": "Fixed the square particle effects and fixed size of name above healthbar"
-    },
-    {
-      "version_number": "0.10.14.14",
-      "patch_note": "Fixed giant squaress that'd appear due to missing assets"
-    },
-    {
-      "version_number": "0.9.14.13",
-      "patch_note": "Fixed the square particle effects"
-    },
-    {
-      "version_number": "0.9.14.11",
-      "patch_note": "Recolored VFX"
-    },
-    {
-      "version_number": "0.8.14.11",
-      "patch_note": "Portait changed. Await ability to extract berial voice lines"
-    }
-  ]
-},{
-  "post_title": "JJK Gojo as Mordekaiser",
-  "preview_text": "The strongest jujutsu sorcerer is now the ruler of the Death Realm in Runeterra",
-  "entry": [
-    {
-      "entry_title": "Demonstration",
-      "entry_body": "<video controls class='basic-video-style m-y-5 m-x-a w-50'><source src='/videos/large/JJK-Gojo-as-Mordekaiser.webm' type='video/webm'></video>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Mod info",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>For BASE skin Mordekaiser ONLY!</p>"
-    },
-    {
-      "entry_title": "Description",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>AllenxWalker voted that he wanted a Gojo as Mordekaiser skin, so I went all out for this one.</p>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Credits",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>Riot's, Fortnite's, and zeweier's assets</p>"
-    },
-    {
-      "entry_title": "Bugs",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    Sometimes, he switches to and from old Mordekaiser's animations. The joke, taunt, dance, and laugh are untouched. His recall looks clunky.</p>"
-    },
-    {
-      "entry_title": "How to contribute",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT! Send me a DM and I'll give you whatever file you need to get started, including the link to the repo! Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
-    },
-    {
-      "entry_title": "Mod rank",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-x-a m-y-1'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td></td><td class='fs-large'>X</td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td></td><td></td><td colspan='2' class='fs-large ' >X</td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td></td><td></td><td class='fs-large ' >X</td><td></td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td class='fs-large'>X</td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td></td><td ></td><td></td><td colspan='2' class='fs-large ' >X</td></tr></table><div class='flex flex-column ai-center jc-center'><div class=''>This mod is considered:</div><img class='w-20' src='/images/SSS.webp'/></div>",
-      "is_underlined": true
-    }
-  ],
-  "version_history": [
-    {
-      "version_number": "1.0.15.9",
-      "patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
-    },
-    {
-      "version_number": "1.0.15.4",
-      "patch_note": "Fixed missing healthbar"
-    },
-    {
-      "version_number": "1.0.14.17",
-      "patch_note": "Fixed font size of name above healthbar"
-    },
-    {
-      "version_number": "1.0.14.17",
-      "patch_note": "Skin released to public"
-    }
-  ]
-},{
-  "post_title": "DMC5 Nobody as Skarner",
-  "preview_text": "This skin mod replaces Skarner from League of Legends with Nobody from DMC5. This mod was requested and dedicated for Cuestionmark",
-  "entry": [
-    {
-      "entry_title": "Demonstration",
-      "entry_body": "<video controls class='basic-video-style m-y-5 m-x-a w-50'><source src='/videos/large/DMC5-Nobody-as-Skarner.webm' type='video/webm'></video>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Mod info",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>For BASE SKIN Skarner only. Will not work with other skins!</p>"
-    },
-    {
-      "entry_title": "Description",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>Cuestionmark is the first OG to join my server and give me praise. This skin has been long since overdue.</p>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Credits",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    The assets were sourced by CAPCOM's DMC5 video game! All rights go to their respective owners. I do not claim to own any of the work/assets used by the mod.    I do claim ownership of the <i>effort</i> put behind the formation of the mod itself.</p>"
-    },
-    {
-      "entry_title": "Bugs",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    His arms and legs are not attached and its ruins the immersion. I couldn't fix it without completely breaking the mod. Since no one plays Skarner, I think this won't affect too many people</p>"
-    },
-    {
-      "entry_title": "How to contribute",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT!    Send me a DM and I'll give you whatever file you need to get started, including the link to the repo!    Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
-    },
-    {
-      "entry_title": "Mod rank",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center mbt-0rem highlight-text-style'>    Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-x-a m-y-1'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td class='fs-large'>X</td><td></td><td></td><td ></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td ></td><td class='fs-large'>X</td><td ></td><td></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td ></td><td></td><td class='fs-large'>X</td><td></td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td class='fs-large'>X</td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td></td><td ></td><td class='fs-large hover-container' >X</td><td colspan='2'></td></tr></table><div class='flex flex-column ai-center jc-center m-y-1'><div class=''>This mod is considered:</div><img class='w-20' src='/images/C.webp'/></div>",
-      "is_underlined": true
-    }
-  ],
-  "version_history": [
-    {
-      "version_number": "1.0.15.5",
-      "patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
-    },
-    {
-      "version_number": "1.0.15.4",
-      "patch_note": "Fixed missing healthbar"
-    },
-    {
-      "version_number": "1.0.14.18",
-      "patch_note": "Fixed font size of name above healthbar"
-    },
-    {
-      "version_number": "1.0.14.17",
-      "patch_note": "Updated skin for health bar"
-    },
-    {
-      "version_number": "1.0.14.11",
-      "patch_note": "Released skin to public"
-    }
-  ]
-},{
-  "post_title": "Sai as Hwei",
-  "preview_text": "The paint ninja from Naruto as the paint boy from League of Legends",
-  "entry": [
-    {
-      "entry_title": "Demonstration",
-      "entry_body": "<video controls class='basic-video-style w-50 m-y-5 m-x-a'><source src='/videos/large/Sai-as-Hwei.webm' type='video/webm'></video>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Mod info",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>For BASE SKIN Hwei only. Will not work with other skins!</p>"
-    },
-    {
-      "entry_title": "Description",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>Beej threw me a large chunk of money and I went 🤑</p>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Credits",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    The assets were sourced by Naruto to Boruto: Shinobi Striker. I think. Beej is the one that provided the model, so idk. All rights go to their respective owners. I do not claim to own any of the work/assets used by the mod.    I do claim ownership of the <i>effort</i> put behind the formation of the mod itself.</p>"
-    },
-    {
-      "entry_title": "Bugs",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    Theres a red lightning bolt that appears on QW. I mustve missed it when I was editing VFX. His pelvis joints are super far up, so it looks strange when he walks</p>"
-    },
-    {
-      "entry_title": "How to contribute",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT!    Send me a DM and I'll give you whatever file you need to get started, including the link to the repo!    Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
-    },
-    {
-      "entry_title": "Mod rank",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-x-a m-y-1'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td class='fs-large'>X</td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td  class='fs-large'>X</td><td></td><td></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td class='fs-large'>X</td><td></td><td></td><td></td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td class='fs-large'>X</td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td></td><td class='fs-large hover-container' >X</td><td></td><td colspan='2'></td></tr></table><div class='flex flex-column ai-center jc-center m-y-1'><div class=''>This mod is considered:</div><img class='w-20' src='/images/B.webp'/></div>",
-      "is_underlined": true
-    }
-  ],
-  "version_history": [
-    {
-      "version_number": "0.8.15.11",
-      "patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
-    },
-    {
-      "version_number": "0.8.15.4",
-      "patch_note": "Fixed missing healthbar"
-    },
-    {
-      "version_number": "0.8.14.18",
-      "patch_note": "Skin released to public"
-    }
-  ]
-},{
-  "post_title": "DB Goku as Sett",
-  "preview_text": "This skin mod replaces Sett from League of Legends with Goku from Dragon Ball. This mod was requested and dedicated for UltraXEgo",
-  "entry": [
-    {
-      "entry_title": "Demonstration",
-      "entry_body": "<video controls class='basic-video-style w-50 m-y-5 m-x-a'><source src='/videos/large/DB-Goku-as-Sett.webm' type='video/webm'></video>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Mod info",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    For BASE SKIN Sett only. Will not work with other skins!</p>"
-    },
-    {
-      "entry_title": "Description",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    This dude, UltraXEgo, has been NAGGING (asked politely) at me NONSTOP (asked twice) to make a Goku skin 😭😭😭 FINE. Here you go. Happy?</p>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Credits",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    The assets were sourced by: I HAVE NO IDEA. I just googled Goku 3d models and picked the best ones! All rights go to their respective owners. I do not claim to own any of the work/assets used by the mod.    I do claim ownership of the <i>effort</i> put behind the formation of the mod itself.</p>"
-    },
-    {
-      "entry_title": "Bugs",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    None that I see. His hands do look weird tho</p>"
-    },
-    {
-      "entry_title": "How to contribute",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT!    Send me a DM and I'll give you whatever file you need to get started, including the link to the repo!    Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
-    },
-    {
-      "entry_title": "Mod rank",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-x-a m-y-1'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td class='fs-large'>X</td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td class='fs-large' >X</td><td></td><td></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td class='fs-large'>X</td><td></td><td></td><td></td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td class='fs-large'>X</td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td class='fs-large hover-container' >X</td><td ></td><td></td><td colspan='2'></td></tr></table><div class='flex flex-column ai-center jc-center m-y-1'><div class=''>This mod is considered:</div><img class='w-20' src='/images/B.webp'/></div>",
-      "is_underlined": true
-    }
-  ],
-  "version_history": [
-    {
-      "version_number": "0.9.15.5",
-      "patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
-    },
-    {
-      "version_number": "0.9.15.4",
-      "patch_note": "Fixed missing healthbar"
-    },
-    {
-      "version_number": "0.9.14.18",
-      "patch_note": "Skin released to public"
-    }
-  ]
-},{
-  "post_title": "JJK Todo as Sett",
-  "preview_text": "The Prince of Boogie Woogie is tearing up the Rift with my highest quality weighted model yet!",
-  "entry": [
-    {
-      "entry_title": "Demonstration",
-      "entry_body": "<video controls class='basic-video-style w-50 m-y-5 m-x-a'><source src='/videos/large/JJK-Todo-as-Sett.webm' type='video/webm'></video>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Mod info",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Mod info</h3><div class='simple-underline'></div><p class='text-center m-x-a w-50'>    For BASE skin Sett ONLY!</p>"
-    },
-    {
-      "entry_title": "Description",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Description</h3><div class='simple-underline'></div><p class='text-center m-x-a w-50'>    ChrispyKnight paid for this skin. Please thank him for the contribution!</p>",
-      "is_underlined": true
-    },
-    {
-      "entry_title": "Credits",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    Riot's and kurokozeref_dggbape's assets</p>"
-    },
-    {
-      "entry_title": "Bugs",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    He still utilizes Sett's voices. Since they're the same voice actor, its mostly fine. Until Sett uses his momma's boy lines</p>"
-    },
-    {
-      "entry_title": "How to contribute",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT!    Send me a DM and I'll give you whatever file you need to get started, including the link to the repo!    Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
-    },
-    {
-      "entry_title": "Mod rank",
-      "entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-x-a m-y-1'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td class='fs-large'>X</td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td class='fs-large'>X</td><td></td><td></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td class='fs-large'>X</td><td></td><td></td><td></td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td class='fs-large'>X</td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td class='fs-large'>X</td><td ></td><td></td><td colspan='2'></td></tr></table><div class='flex flex-column ai-center jc-center m-y-1'><div class=''>This mod is considered:</div><img class='w-20' src='/images/A.webp'/></div>",
-      "is_underlined": true
-    }
-  ],
-  "version_history": [
-    {
-      "version_number": "1.0.15.4",
-      "patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
-    },
-    {
-      "version_number": "1.0.15.4",
-      "patch_note": "Fixed missing healthbar"
-    },
-    {
-      "version_number": "1.0.14.19",
-      "patch_note": "Skin released to public"
-    }
-  ]
-}]
+[
+	{
+		"post_title": "DMC5 Nero as Aatrox",
+		"preview_text": "Theres a lot of missing animations and VFX that need to be finished",
+		"is_active_project": true,
+		"entry": [],
+		"version_history": []
+	},
+	{
+		"post_title": "League May Audio 5",
+		"preview_text": "The buggiest POS I've ever made...but when it works, its game changing",
+		"is_active_project": true,
+		"entry": [],
+		"version_history": []
+	},
+	{
+		"post_title": "DMC5 Vergil as Yasuo",
+		"preview_text": "The Legendary Son of Sparda from DMC5 playing as Drunk Homeless Man from League of Legends",
+		"entry": [
+			{
+				"entry_title": "Demonstration",
+				"entry_body": "<video controls class='basic-video-style m-y-5 m-x-a text-center w-50'><source src='/videos/large/DMC5-Vergil-as-Yasuo.webm' type='video/webm'></video>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "2.0 Update is LIVE!",
+				"entry_body": "<h3 class='fs-large text-center highlight-text-style'>2.0 Update is LIVE!</h3><p class='text-center bold'>NEW NEW NEWWWW!!!!<br>I FIXED YASUO'S HUNCHED BACK!! VERGIL HAS BEEN CURED!</p><video controls style='margin-bottom:3%;margin-top:3%' class='basic-video-style m-x-a text-center w-50'><source src='/videos/large/DMC5-Vergil-as-Yasuo-2.0.webm' type='video/webm'></video>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Mod info",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>For BASE SKIN Yasuo only. Will not work with other skins!</p>"
+			},
+			{
+				"entry_title": "Description",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Description</h3><div class='simple-underline'></div><p class=' text-center w-50 m-x-a'>For when you're literally the story that is approaching. I PROMISE you, you'll be a better Yasuo player with this mod. IDK why. </p>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Credits",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>The assets were sourced by CAPCOM's DMC5 video game! All rights go to their respective owners. I do not claim to own any of the work/assets used by the mod.I do claim ownership of the <i>effort</i> put behind the formation of the mod itself.</p>"
+			},
+			{
+				"entry_title": "Bugs",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center  highlight-text-style'>Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>None so far! Join the discord to report any problems you have with the mod!</p>"
+			},
+			{
+				"entry_title": "How to contribute",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT! Send me a DM and I'll give you whatever file you need to get started, including the link to the repo! Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
+			},
+			{
+				"entry_title": "Mod rank",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table style='border: 1px solid grey;' class='text-center w-90 m-x-a m-y-1'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th>The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td class='fs-large'>X</td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th>Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td></td><td></td><td colspan='2' class='fs-large ' >X</td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th>Untouched</th><th>Some voice lines were changed</th><th  >All the voice lines were changed</th><th>Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td></td><td></td><td></td><td class='fs-large' >X</td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'>I made them 😭</th><th>Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td class='fs-large'>X</td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td></td><td ></td><td></td><td colspan='2' class='fs-large'>X</td></tr></table><div style='margin-bottom:5%' class='flex jc-center flex-column ai-center m-y-1'><div class='text-center'>This mod is considered:</div><img class='w-20 m-x-a text-center' src='/images/SS.webp'/></div>",
+				"is_underlined": true
+			}
+		],
+		"version_history": [
+			{
+				"version_number": "2.2.15.9",
+				"patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
+			},
+			{
+				"version_number": "2.2.15.4",
+				"patch_note": "Fixed missing healthbar"
+			},
+			{
+				"version_number": "2.1.14.18",
+				"patch_note": "Fixed bug with squares/missing assets on Flying Judgement Cut"
+			},
+			{
+				"version_number": "2.1.14.17",
+				"patch_note": "Updated healthbar to fix font size"
+			},
+			{
+				"version_number": "2.1.14.15",
+				"patch_note": "Fixed squares that would appear on tornado"
+			},
+			{
+				"version_number": "2.1.14.14",
+				"patch_note": "Updated to newest patch"
+			},
+			{
+				"version_number": "2.1.14.13",
+				"patch_note": "Had a really awesome particle effect for Vergil, but the inconsistency of cslol/ritobin prevented me from using it"
+			},
+			{
+				"version_number": "2.0.14.10",
+				"patch_note": "Consolidated similar mods into single folder;Updated skin animations to match DMC5 vergil anims"
+			},
+			{
+				"version_number": "1.11.14.1",
+				"patch_note": "Fixed vfx flying away from Yasuo"
+			},
+			{
+				"version_number": "1.10.13.8",
+				"patch_note": "Fixed broken ability descriptions"
+			},
+			{
+				"version_number": "1.9.13.4",
+				"patch_note": "Fixed frozen animations that Vergil would do after joke"
+			}
+		]
+	},
+	{
+		"post_title": "DMC5 Doppelganger as Yasuo",
+		"preview_text": "The Doppelganger clone as Yasuo. Works well with Vergil as Yone",
+		"download_url_override": "https://github.com/AlecRuin/DMC5-Vergil-as-Yasuo/releases/latest",
+		"entry": [
+			{
+				"entry_title": "Demonstration",
+				"entry_body": "<video controls class='basic-video-style w-50 m-y-5 m-x-a'><source src='/videos/DMC5-Doppelganger-as-Yasuo.webm' type='video/webm'></video>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Mod info",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>For BASE SKIN Yasuo only. Will not work with other skins!</p>"
+			},
+			{
+				"entry_title": "Description",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>I made this skin because I wanted an excuse to play windshitters bot. And if Yone is already Vergil, I will simply source a different Vergil. </p>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Credits",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>The assets were sourced by CAPCOM's DMC5 video game! All rights go to their respective owners. I do not claim to own any of the work/assets used by the mod. I do claim ownership of the <i>effort</i> put behind the formation of the mod itself.</p>"
+			},
+			{
+				"entry_title": "Bugs",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>He looks low-key kinda fugly</p>"
+			},
+			{
+				"entry_title": "How to contribute",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT! Send me a DM and I'll give you whatever file you need to get started, including the link to the repo! Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
+			},
+			{
+				"entry_title": "Mod rank",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-x-a m-y-1'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th >What are weights???</th><th >The model was given rough-weights</th><th >The model has 0.5 weights on major joints, like arms and legs</th><th >The model was 100% weighted by me</th><th >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td class=''>X</td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th >I made them 😭</th><th >Riot Games™ made them 😔</th><th >Some animations were replaced utilizing various techniques</th><th >Animations were created by source animations mirroring to the rig</th><th >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td></td><td></td><td class=' ' >X</td><td></td></tr><tr class=''  style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th >I made them 😭</th><th >Untouched</th><th >Some voice lines were changed</th><th >All the voice lines were changed</th><th >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td >X</td><td></td><td></td><td class=' ' >X</td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2' >I made them 😭</th><th >Untouched</th><th colspan='2' >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td class=''>X</td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th >Untouched</th><th >Color-shifted</th><th >Adjusted/Trimmed/Tweaked</th><th colspan='2' >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td></td><td></td><td></td><td colspan='2' class=' ' >X</td></tr></table><div class='flex ai-center flex-column m-y-1'><div class='text-center'>This mod is considered:</div><img class='w-20 m-x-a text-center' src='/images/SS.webp'/></div>",
+				"is_underlined": true
+			}
+		],
+		"version_history": [
+			{
+				"version_number": "2.0.14.17",
+				"patch_note": "Updated animations, updated tornado, and fixed healthbar"
+			},
+			{
+				"version_number": "1.3.14.15",
+				"patch_note": "Fixed doppelganger icon;Fixed skin not playing audio"
+			},
+			{
+				"version_number": "1.2.14.10",
+				"patch_note": "Added ahri vfx to entire body to create shimmer"
+			},
+			{
+				"version_number": "1.1.13.8",
+				"patch_note": "Fixed weights"
+			},
+			{
+				"version_number": "1.0.13.5",
+				"patch_note": "Skin released to public"
+			}
+		]
+	},
+	{
+		"post_title": "DMC5 Nero as Blitzcrank",
+		"preview_text": "The deadweight himself as my feeding support! I had daydreams of Nero being Blitzcrank, and I finally got around to making it",
+		"entry": [
+			{
+				"entry_title": "Demonstration",
+				"entry_body": "<video controls class='basic-video-style m-y-5 m-x-a text-center w-50'><source src='/videos/large/DMC5-Deadweight-as-Blitzcrank.webm' type='video/webm'></video>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "2.0 Update",
+				"entry_body": "<h3 class='fs-large text-center highlight-text-style'>2.0 Update is LIVE!</h3><p class='text-center bold w-50 m-x-a'>NEW NEW NEWWWW!!!!<br>NERO DOESNT HAVE THE WORST, EYE-BLEEDING, SOUL-TEARING ANIMATIONS ANYMORE!</p><video controls style='margin-bottom:3%;margin-top:3%' class='basic-video-style w-50 m-x-a'><source src='/videos/large/DMC5-Nero-as-Blitzcrank-2.0.webm' type='video/webm'></video>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Mod info",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>For BASE SKIN Blitzcrank only. Will not work with other skins!</p>"
+			},
+			{
+				"entry_title": "Description",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>I woke up in a cold sweat and realized that Nero and Blitzcrank share too many abilities. And then my quest started. This skin might honestly make you a worse Blitzcrank player, but at least you'll look stylish</p>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Credits",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>The assets were sourced by CAPCOM's DMC5 video game! All rights go to their respective owners. I do not claim to own any of the work/assets used by the mod. I do claim ownership of the <i>effort</i> put behind the formation of the mod itself.</p>"
+			},
+			{
+				"entry_title": "Bugs",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>His channel and laugh animations aren't done. I have no intentions of fixing it because its a reminder of what the skin looked like before I had to animated it. But it adds charm to the skin, AND YOURE FREAKING NERO!!!! Also, when his shield passive is proc'd, he will keep saying 'told you, told you, told you' on repeat. That is my fault; I didn't know Blitz played that sound on repeat</p>"
+			},
+			{
+				"entry_title": "How to contribute",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT! Send me a DM and I'll give you whatever file you need to get started, including the link to the repo! Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
+			},
+			{
+				"entry_title": "Mod rank",
+				"entry_body": "<h3 style='margin-bottom:0px'  class='fs-large text-center mbt-0rem highlight-text-style'>Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-x-a m-y-1'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td class=''>X</td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td></td><td></td><td class=' ' >X</td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td></td><td></td><td></td><td class=' ' >X</td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td></td><td colspan='2' class=' ' >X</td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td></td><td ></td><td></td><td colspan='2' class=' ' >X</td></tr></table><div class='w-100 flex flex-column ai-center m-x-a jc-center m-y-1'><div class='text-center'>This mod is considered:</div><img class='w-20 m-x-a text-center m-y-1' src='/images/SSS.webp'/></div>",
+				"is_underlined": true
+			}
+		],
+		"version_history": [
+			{
+				"version_number": "2.2.15.9",
+				"patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
+			},
+			{
+				"version_number": "2.2.15.4",
+				"patch_note": "Fixed missing healthbar"
+			},
+			{
+				"version_number": "2.2.14.17",
+				"patch_note": "Nero's hair will now use the transparency property in his texture file;No longer say 'told ya' every second his passive is up;Shrunk icons to fit inside better"
+			},
+			{
+				"version_number": "2.1.14.16",
+				"patch_note": "Gave cool icons to Nero Blitz's abilities"
+			},
+			{
+				"version_number": "2.0.14.10",
+				"patch_note": "His animations have been replaced to resemble Nero's"
+			},
+			{
+				"version_number": "1.3.13.8",
+				"patch_note": "Fixed all anims to not have locked keyframes after finished"
+			},
+			{
+				"version_number": "1.2.13.2",
+				"patch_note": "WHY IS HE SO SMALL?????????"
+			},
+			{
+				"version_number": "1.1.13.1",
+				"patch_note": "Unknown change"
+			}
+		]
+	},
+	{
+		"post_title": "DMC5 Dante as Samira",
+		"preview_text": "The <i>other</i> Legendary Son of Sparda from DCM5 playing as Dante-wannabe from League of Legends",
+		"entry": [
+			{
+				"entry_title": "Demonstration",
+				"entry_body": "<video controls class='basic-video-style m-y-5 m-x-a text-center w-50'><source src='/videos/large/DMC5-Dante-as-Samira.webm' type='video/webm'></video>"
+			},
+			{
+				"entry_title": "Mod info",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>For BASE SKIN Samira only. Will not work with other skins!</p>"
+			},
+			{
+				"entry_title": "Description",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>J A C K P O T.<br>This is a reskin of <a class='basic-anchor-style no-decor' href='https://www.runeforge.io/post/dante-samira'>Kinghound's Dante as Samira skin</a>The original mod used DMC3 Dante. This mod replaces the voicelines and model with DMC5 assets.</p>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Credits",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'> The assets were sourced by CAPCOM's DMC5 video game! All rights go to their respective owners. I do not claim to own any of the work/assets used by the mod. I do claim ownership of the <i>effort</i> put behind the formation of the mod itself.</p>"
+			},
+			{
+				"entry_title": "Bugs",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>His body looks horribly deformed. Yes, I know. Samira's body DOES NOT line up to Dante's at all. Because of this, the sword is also piercing his back. To fix this, you'd need to reanimate the skin, and there's around 80 animations for base skin Samira. And I don't get paid to do any of this. My obsession fuels me.</p>"
+			},
+			{
+				"entry_title": "How to contribute",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'> How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'> ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT! Send me a DM and I'll give you whatever file you need to get started, including the link to the repo! Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
+			},
+			{
+				"entry_title": "Optional software",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Optional software</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>I made a macro that scans your screen and plays music based on your ult status as Samira. You can use any song you'd like, but I personally use Subhuman and Devil Trigger.    You must have a way to measure your screen, in pixels, and a text editor. If you have any troubles, or want the songs I use, please join my discord server and ping me!</p><a  style='margin-bottom:3%' target='_blank' class='basic-button w-15 no-decor m-x-a' href='https://github.com/AlecRuin/Samira-Rank-Autoplayer/releases/latest'><div class='txt-grad-quaternary shimmer text-center '>Download optional software</div></a>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Mod rank",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table  class='text-center w-90 m-x-a m-y-1'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td class='fs-large'>X</td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td colspan='2' class='fs-large ' >X</td><td></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td></td><td></td><td class='fs-large' >X</td><td></td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2' class='fs-large ' >X</td><td></td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td class='fs-large'>X</td><td></td><td></td><td colspan='2'></td></tr></table><div class='flex jc-center flex-column ai-center m-y-1'><div class='text-center'>This mod is considered:</div><img class='w-20' src='/images/SS.webp'/></div>",
+				"is_underlined": true
+			}
+		],
+		"version_history": [
+			{
+				"version_number": "1.9.15.9",
+				"patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
+			},
+			{
+				"version_number": "1.9.15.4",
+				"patch_note": "Fixed missing healthbar"
+			},
+			{
+				"version_number": "1.9.15.3",
+				"patch_note": "Fixed missing squares again"
+			},
+			{
+				"version_number": "1.9.15.2",
+				"patch_note": "Fixed squares;Made ult show Devil Trigger again;Fixed floating coin; Made sword idle not pierce the back"
+			},
+			{
+				"version_number": "1.8.15.1",
+				"patch_note": "Updated to work with the new skin line"
+			},
+			{
+				"version_number": "1.7.14.17",
+				"patch_note": "Fixed font size of name above healthbar"
+			},
+			{
+				"version_number": "1.7.14.15",
+				"patch_note": "Fixed. Squares"
+			},
+			{
+				"version_number": "1.7.14.14",
+				"patch_note": "Fixed squares"
+			},
+			{
+				"version_number": "1.7.14.13",
+				"patch_note": "Fixed evil red squares. Again"
+			},
+			{
+				"version_number": "1.6.14.10",
+				"patch_note": "Fix coat to legs"
+			},
+			{
+				"version_number": "1.5.14.5",
+				"patch_note": "Replaced voice lines with other voice lines from DMC5"
+			},
+			{
+				"version_number": "1.0.13.8",
+				"patch_note": "Released skin to public"
+			}
+		]
+	},
+	{
+		"post_title": "DMC5 Dante as Riven",
+		"preview_text": "This skin replaces Riven from League of Legends to Dante from DMC5. This mod was originally made for a friend, and as suck, gets to have a custom message written onto the loading screen image.",
+		"entry": [
+			{
+				"entry_title": "Demonstration",
+				"entry_body": "<video controls class='basic-video-style m-y-5 m-x-a w-50''><source src='/videos/large/DMC5-Dante-as-Riven.webm' type='video/webm'></video>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Mod info",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>For BASE SKIN Riven only. Will not work with other skins!</p>"
+			},
+			{
+				"entry_title": "Description",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>My friend, Kiril, is a huge Dante fan and mains Riven. So he asked me to make this mod and I did.</p>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Credits",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>The assets were sourced by CAPCOM's DMC5 video game! All rights go to their respective owners. I do not claim to own any of the work/assets used by the mod. I do claim ownership of the <i>effort</i> put behind the formation of the mod itself.</p>"
+			},
+			{
+				"entry_title": "Bugs",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>Some particle effects got through me and are still green :&#40;</p>"
+			},
+			{
+				"entry_title": "How to contribute",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'> ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT! Send me a DM and I'll give you whatever file you need to get started, including the link to the repo! Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
+			},
+			{
+				"entry_title": "Mod rank",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-y-1 m-x-a'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td class='fs-large'>X</td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td colspan='2' class='fs-large ' >X</td><td></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td></td><td></td><td class='fs-large ' >X</td><td></td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2' class='fs-large ' >X</td><td></td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td></td><td class='fs-large'>X</td><td></td><td colspan='2'></td></tr></table><div class='flex jc-center flex-column ai-center m-y-1'><div>This mod is considered:</div><img class='w-20' src='/images/S.webp'/></div>",
+				"is_underlined": true
+			}
+		],
+		"version_history": [
+			{
+				"version_number": "1.3.15.5",
+				"patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
+			},
+			{
+				"version_number": "1.3.15.4",
+				"patch_note": "Fixed missing healthbar"
+			},
+			{
+				"version_number": "1.3.15.3",
+				"patch_note": "Fixed missing assets with shockwave VFX"
+			},
+			{
+				"version_number": "1.3.14.17",
+				"patch_note": "Fixed font size of name above healthbar"
+			},
+			{
+				"version_number": "1.2.14.13",
+				"patch_note": "Replaced joke and taunt animation as well as voice line"
+			},
+			{
+				"version_number": "1.1.14.11",
+				"patch_note": "Fixed weight on coat on the legs, ability tool tips are no longer broken"
+			},
+			{
+				"version_number": "1.0.14.10",
+				"patch_note": "Skin released to public"
+			}
+		]
+	},
+	{
+		"post_title": "DMC5 V as Hwei",
+		"preview_text": "My gf asked for this skin for MONTHS. And when I <i>finally</i> get around to making it, she still uses the winterblessed skin. 😭",
+		"entry": [
+			{
+				"entry_title": "Demonstration",
+				"entry_body": "<video controls class='basic-video-style m-y-5 m-x-a w-50'><source src='/videos/large/DMC5-V-as-Hwei.webm' type='video/webm'></video>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Mod info",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>For BASE SKIN Hwei only. Will not work with other skins!</p>"
+			},
+			{
+				"entry_title": "Description",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>She has been asking me to make this skin SINCE the champion was released 😔 Fine, here you go. Just please don't make me play base skin Smolder again 😭</p>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Credits",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>The assets were sourced by CAPCOM's DMC5 video game! All rights go to their respective owners. I do not claim to own any of the work/assets used by the mod. I do claim ownership of the <i>effort</i> put behind the formation of the mod itself.</p>"
+			},
+			{
+				"entry_title": "Bugs",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Bugs</h3>s<div class='simple-underline'></div><p class='text-center w-50 m-x-a'>His skin pierces through his coat on some animations</p>"
+			},
+			{
+				"entry_title": "How to contribute",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT! Send me a DM and I'll give you whatever file you need to get started, including the link to the repo! Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
+			},
+			{
+				"entry_title": "Mod rank",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-x-a m-y-1'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td></td><td class='fs-large ' >X</td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td class='fs-large'>X</td><td></td><td></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td></td><td></td><td class='fs-large' >X</td><td></td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td class='fs-large'>X</td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td class='fs-large'>X</td><td></td><td></td><td colspan='2'></td></tr></table><div class='flex jc-center flex-column ai-center m-y-1'><div>This mod is considered:</div><img class='w-20' src='/images/S.webp'/></div>",
+				"is_underlined": true
+			}
+		],
+		"version_history": [
+			{
+				"version_number": "1.1.15.14",
+				"patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
+			},
+			{
+				"version_number": "1.0.15.5",
+				"patch_note": "Fixed square vfx"
+			},
+			{
+				"version_number": "1.0.15.4",
+				"patch_note": "Fixed missing healthbar"
+			},
+			{
+				"version_number": "1.0.15.3",
+				"patch_note": "Regenerated missing assets and fixed bin"
+			},
+			{
+				"version_number": "1.0.14.17",
+				"patch_note": "Fixed bug where name above healthbar would be incorrect font size"
+			},
+			{
+				"version_number": "1.0.14.10",
+				"patch_note": "Skin released to public"
+			}
+		]
+	},
+	{
+		"post_title": "DMC5 Vergil as Yone",
+		"preview_text": "Replaces Yone as DMC5 Vergil. Works really well with DMC5 Doppelganger as Yasuo. (I do not condone the behavior of windshitters bot. Lose LP at your own discretion)",
+		"entry": [
+			{
+				"entry_title": "Demonstration",
+				"entry_body": "<video controls class='basic-video-style m-y-5 m-x-a text-center w-50'><source src='/videos/large/DMC5-Vergil-as-Yone.webm' type='video/webm'></video>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Mod info",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>For BASE SKIN Yone only. Will not work with other skins!</p>"
+			},
+			{
+				"entry_title": "Description",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>I made this skin because scuttle's skin didn't meet my gf's high expectations. She doesn't even like this skin 😔 SHES NOT EVEN A YONE PLAYER 😭</p>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Credits",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>The assets were sourced by CAPCOM's DMC5 video game! All rights go to their respective owners. I do not claim to own any of the work/assets used by the mod. I do claim ownership of the <i>effort</i> put behind the formation of the mod itself.</p>"
+			},
+			{
+				"entry_title": "Bugs",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>The Taunt and Dance look terrible and have a bad loop</p>"
+			},
+			{
+				"entry_title": "How to contribute",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'> How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'> ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT! Send me a DM and I'll give you whatever file you need to get started, including the link to the repo! Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
+			},
+			{
+				"entry_title": "Mod rank",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-y-1 m-x-a'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td class='fs-large'>X</td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td class='fs-large'>X</td><td></td><td></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td></td><td></td><td></td><td class='fs-large ' >X</td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td class='fs-large'>X</td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td></td><td class='fs-large'>X</td><td></td><td colspan='2'></td></tr></table><div class='flex jc-center flex-column ai-center m-y-1'><div class=''>This mod is considered:</div><img class='w-30 mbt-1rem' src='/images/A.webp'/></div>",
+				"is_underlined": true
+			}
+		],
+		"version_history": [
+			{
+				"version_number": "1.0.16.3",
+				"patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
+			},
+			{
+				"version_number": "1.0.15.4",
+				"patch_note": "Fixed missing healthbar;Fixed E crash"
+			},
+			{
+				"version_number": "1.0.15.3",
+				"patch_note": "Fixed bug that caused ghostblade to become white"
+			},
+			{
+				"version_number": "1.0.14.17",
+				"patch_note": "Fixed bug where healthbar wouldn't show up"
+			},
+			{
+				"version_number": "1.0.14.10",
+				"patch_note": "Released skin to public"
+			}
+		]
+	},
+	{
+		"post_title": "DMC5 Griffon as Smolder",
+		"preview_text": "I REALLY hated listening to Annoying Disney Character (ADC)(Smolder) speak. So I rushed this mod as quick as possible. Works really well with DMC5 V as Hwei. ",
+		"entry": [
+			{
+				"entry_title": "Mod info",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>For BASE SKIN Smolder only. Will not work with other skins!</p>"
+			},
+			{
+				"entry_title": "Description",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'> Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>This is supposed to be paired up with \"DMC5 V as Hwei\" and played botlane. But as I was playing base-skin Smolder, I REALLY hated his voice, and his look, and anims, and everything. So I rushed this skin out and use this whenever I have to play Smolder. So there is no video for him, because he's probably the lowest-effort skin I've ever made</p>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Credits",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>The assets were sourced by CAPCOM's DMC5 video game! All rights go to their respective owners. I do not claim to own any of the work/assets used by the mod. I do claim ownership of the <i>effort</i> put behind the formation of the mod itself.</p>"
+			},
+			{
+				"entry_title": "Bugs",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>He looks awful :&#40;</p>"
+			},
+			{
+				"entry_title": "How to contribute",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT! Send me a DM and I'll give you whatever file you need to get started, including the link to the repo! Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
+			},
+			{
+				"entry_title": "Mod rank",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-x-a m-y-1'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td class='fs-large'>X</td><td></td><td></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td class='fs-large'>X</td><td></td><td></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td></td><td></td><td class='fs-large'>X</td><td></td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td class='fs-large'>X</td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td class='fs-large'>X</td><td></td><td></td><td colspan='2'></td></tr></table><div class='flex flex-column  ai-center jc-center'><div class=''>This mod is considered:</div><img class='w-20' src='/images/D.webp'/></div>",
+				"is_underlined": true
+			}
+		],
+		"version_history": [
+			{
+				"version_number": "0.8.15.9",
+				"patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
+			},
+			{
+				"version_number": "0.8.15.4",
+				"patch_note": "Fixed missing healthbar"
+			},
+			{
+				"version_number": "0.8.14.17",
+				"patch_note": "Fixed font size of name above healthbar"
+			},
+			{
+				"version_number": "0.8.14.13",
+				"patch_note": "Unknown change"
+			},
+			{
+				"version_number": "0.8.14.10",
+				"patch_note": "Added rough weights and voice lines"
+			}
+		]
+	},
+	{
+		"post_title": "Full Build Gwen",
+		"preview_text": "Gwen but shes in permanent doll mode. Extremely adorable and demoralizing to lose against",
+		"download_url_override": "https://discord.gg/GA4fsA8xxK",
+		"entry": [
+			{
+				"entry_title": "Demonstration",
+				"entry_body": "<video controls class='basic-video-style m-y-5 m-x-a w-50'><source src='/videos/large/Full-Build-Gwen.webm' type='video/webm'></video>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Mod info",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>For every skin and chroma!</p>"
+			},
+			{
+				"entry_title": "Description",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>AKA, Gwen, but she is permanently a doll skin mod. Imagine dying to a wittle doll lmao.</p>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Credits",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>Riot's assets and my effort to keep her at 100% power</p>"
+			},
+			{
+				"entry_title": "Bugs",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>I made the animations 😔</p>"
+			},
+			{
+				"entry_title": "How to contribute",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT! Send me a DM and I'll give you whatever file you need to get started, including the link to the repo! Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
+			},
+			{
+				"entry_title": "Mod rank",
+				"entry_body": "<h3 class='fs-large text-center mbt-0rem highlight-text-style'>Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-y-1 m-x-a'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td>X</td><td class='fs-large'>X</td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td class='fs-large'>X</td><td></td><td></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td class='fs-large ' >X</td><td></td><td></td><td></td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td class='fs-large'>X</td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td class='fs-large'>X</td><td></td><td></td><td colspan='2'></td></tr></table><div class='flex jc-center flex-column ai-center m-y-1'><div class=''>This mod is considered:</div><img class='w-20' src='/images/SS.webp'/></div>",
+				"is_underlined": true
+			}
+		],
+		"version_history": [
+			{
+				"version_number": "15.14.1.6",
+				"patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
+			},
+			{
+				"version_number": "1.5.15.4",
+				"patch_note": "Fixed missing healthbar"
+			},
+			{
+				"version_number": "1.5.15.3",
+				"patch_note": "Fixed missing portait in loading screen"
+			},
+			{
+				"version_number": "1.5.14.21",
+				"patch_note": "Fixed bug where Battle Queen had broken recall and portaits"
+			},
+			{
+				"version_number": "1.5.14.20",
+				"patch_note": "Fixed bug where space grooce gwen would still have a dress and hair, and soul fighter would still show body"
+			},
+			{
+				"version_number": "1.5.14.19",
+				"patch_note": "Fixed bug where icon and voice lines weren't being played"
+			},
+			{
+				"version_number": "1.5.14.17",
+				"patch_note": "Fixed bug where name above healthbar would be incorrect font size;Fixed bug where mod didnt support newest skin"
+			}
+		]
+	},
+	{
+		"post_title": "DMC4 Berial as Hecarim",
+		"preview_text": "This skin mod replaces Hecarim from League of Legends with Berial from DMC4. This mod was requested and dedicated for Pinhetro",
+		"entry": [
+			{
+				"entry_title": "Demonstration",
+				"entry_body": "<video controls class='basic-video-style m-y-5 m-x-a w-50'><source src='/videos/large/DMC4-Berial-as-Hecarim.webm' type='video/webm'></video>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Mod info",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center m-x-a w-50'>For BASE SKIN Hecarim only. Will not work with other skins!</p>"
+			},
+			{
+				"entry_title": "Description",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>I asked a poll of what the next skin mod should be, and Pinhetro voted for this skin. It wasn't the first to be made, but because he voted, this skin was <i>eventually</i> made and dedicated to him.</p>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Credits",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>The assets were sourced by CAPCOM's DMC4 video game! All rights go to their respective owners. I do not claim to own any of the work/assets used by the mod. I do claim ownership of the <i>effort</i> put behind the formation of the mod itself.</p>"
+			},
+			{
+				"entry_title": "Bugs",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>Some particle effects are still Hecarim's, and every patch runs the risk of turning all the particle effects into squares. His tail is also stiff, but thats because Hecarim's tail is so small 😂</p>"
+			},
+			{
+				"entry_title": "How to contribute",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT!    Send me a DM and I'll give you whatever file you need to get started, including the link to the repo! Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
+			},
+			{
+				"entry_title": "Mod rank",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-x-a m-y-1'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td class='fs-large'>X</td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td colspan='2' class='fs-large ' >X</td><td></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td class='fs-large ' >X</td><td></td><td></td><td></td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td class='fs-large'>X</td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td></td><td class='fs-large'>X</td><td></td><td colspan='2'></td></tr></table><div class='flex flex-column ai-center jc-center'><div class=''>This mod is considered:</div><img class='w-20' src='/images/A.webp'/></div>",
+				"is_underlined": true
+			}
+		],
+		"version_history": [
+			{
+				"version_number": "15.14.1.1",
+				"patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
+			},
+			{
+				"version_number": "1.0.15.4",
+				"patch_note": "Fixed missing healthbar"
+			},
+			{
+				"version_number": "1.0.14.17",
+				"patch_note": "Fixed the square particle effects and fixed size of name above healthbar"
+			},
+			{
+				"version_number": "0.10.14.14",
+				"patch_note": "Fixed giant squaress that'd appear due to missing assets"
+			},
+			{
+				"version_number": "0.9.14.13",
+				"patch_note": "Fixed the square particle effects"
+			},
+			{
+				"version_number": "0.9.14.11",
+				"patch_note": "Recolored VFX"
+			},
+			{
+				"version_number": "0.8.14.11",
+				"patch_note": "Portait changed. Await ability to extract berial voice lines"
+			}
+		]
+	},
+	{
+		"post_title": "JJK Gojo as Mordekaiser",
+		"preview_text": "The strongest jujutsu sorcerer is now the ruler of the Death Realm in Runeterra",
+		"entry": [
+			{
+				"entry_title": "Demonstration",
+				"entry_body": "<video controls class='basic-video-style m-y-5 m-x-a w-50'><source src='/videos/large/JJK-Gojo-as-Mordekaiser.webm' type='video/webm'></video>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Mod info",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>For BASE skin Mordekaiser ONLY!</p>"
+			},
+			{
+				"entry_title": "Description",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>AllenxWalker voted that he wanted a Gojo as Mordekaiser skin, so I went all out for this one.</p>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Credits",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>Riot's, Fortnite's, and zeweier's assets</p>"
+			},
+			{
+				"entry_title": "Bugs",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    Sometimes, he switches to and from old Mordekaiser's animations. The joke, taunt, dance, and laugh are untouched. His recall looks clunky.</p>"
+			},
+			{
+				"entry_title": "How to contribute",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT! Send me a DM and I'll give you whatever file you need to get started, including the link to the repo! Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
+			},
+			{
+				"entry_title": "Mod rank",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-x-a m-y-1'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td></td><td class='fs-large'>X</td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td></td><td></td><td colspan='2' class='fs-large ' >X</td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td></td><td></td><td class='fs-large ' >X</td><td></td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td class='fs-large'>X</td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td></td><td ></td><td></td><td colspan='2' class='fs-large ' >X</td></tr></table><div class='flex flex-column ai-center jc-center'><div class=''>This mod is considered:</div><img class='w-20' src='/images/SSS.webp'/></div>",
+				"is_underlined": true
+			}
+		],
+		"version_history": [
+			{
+				"version_number": "1.0.15.9",
+				"patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
+			},
+			{
+				"version_number": "1.0.15.4",
+				"patch_note": "Fixed missing healthbar"
+			},
+			{
+				"version_number": "1.0.14.17",
+				"patch_note": "Fixed font size of name above healthbar"
+			},
+			{
+				"version_number": "1.0.14.17",
+				"patch_note": "Skin released to public"
+			}
+		]
+	},
+	{
+		"post_title": "DMC5 Nobody as Skarner",
+		"preview_text": "This skin mod replaces Skarner from League of Legends with Nobody from DMC5. This mod was requested and dedicated for Cuestionmark",
+		"entry": [
+			{
+				"entry_title": "Demonstration",
+				"entry_body": "<video controls class='basic-video-style m-y-5 m-x-a w-50'><source src='/videos/large/DMC5-Nobody-as-Skarner.webm' type='video/webm'></video>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Mod info",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>For BASE SKIN Skarner only. Will not work with other skins!</p>"
+			},
+			{
+				"entry_title": "Description",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>Cuestionmark is the first OG to join my server and give me praise. This skin has been long since overdue.</p>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Credits",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    The assets were sourced by CAPCOM's DMC5 video game! All rights go to their respective owners. I do not claim to own any of the work/assets used by the mod.    I do claim ownership of the <i>effort</i> put behind the formation of the mod itself.</p>"
+			},
+			{
+				"entry_title": "Bugs",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    His arms and legs are not attached and its ruins the immersion. I couldn't fix it without completely breaking the mod. Since no one plays Skarner, I think this won't affect too many people</p>"
+			},
+			{
+				"entry_title": "How to contribute",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT!    Send me a DM and I'll give you whatever file you need to get started, including the link to the repo!    Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
+			},
+			{
+				"entry_title": "Mod rank",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center mbt-0rem highlight-text-style'>    Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-x-a m-y-1'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td class='fs-large'>X</td><td></td><td></td><td ></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td ></td><td class='fs-large'>X</td><td ></td><td></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td ></td><td></td><td class='fs-large'>X</td><td></td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td class='fs-large'>X</td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td></td><td ></td><td class='fs-large hover-container' >X</td><td colspan='2'></td></tr></table><div class='flex flex-column ai-center jc-center m-y-1'><div class=''>This mod is considered:</div><img class='w-20' src='/images/C.webp'/></div>",
+				"is_underlined": true
+			}
+		],
+		"version_history": [
+			{
+				"version_number": "1.0.15.5",
+				"patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
+			},
+			{
+				"version_number": "1.0.15.4",
+				"patch_note": "Fixed missing healthbar"
+			},
+			{
+				"version_number": "1.0.14.18",
+				"patch_note": "Fixed font size of name above healthbar"
+			},
+			{
+				"version_number": "1.0.14.17",
+				"patch_note": "Updated skin for health bar"
+			},
+			{
+				"version_number": "1.0.14.11",
+				"patch_note": "Released skin to public"
+			}
+		]
+	},
+	{
+		"post_title": "Sai as Hwei",
+		"preview_text": "The paint ninja from Naruto as the paint boy from League of Legends",
+		"entry": [
+			{
+				"entry_title": "Demonstration",
+				"entry_body": "<video controls class='basic-video-style w-50 m-y-5 m-x-a'><source src='/videos/large/Sai-as-Hwei.webm' type='video/webm'></video>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Mod info",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>For BASE SKIN Hwei only. Will not work with other skins!</p>"
+			},
+			{
+				"entry_title": "Description",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>Beej threw me a large chunk of money and I went 🤑</p>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Credits",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    The assets were sourced by Naruto to Boruto: Shinobi Striker. I think. Beej is the one that provided the model, so idk. All rights go to their respective owners. I do not claim to own any of the work/assets used by the mod.    I do claim ownership of the <i>effort</i> put behind the formation of the mod itself.</p>"
+			},
+			{
+				"entry_title": "Bugs",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    Theres a red lightning bolt that appears on QW. I mustve missed it when I was editing VFX. His pelvis joints are super far up, so it looks strange when he walks</p>"
+			},
+			{
+				"entry_title": "How to contribute",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT!    Send me a DM and I'll give you whatever file you need to get started, including the link to the repo!    Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
+			},
+			{
+				"entry_title": "Mod rank",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-x-a m-y-1'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td class='fs-large'>X</td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td  class='fs-large'>X</td><td></td><td></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td class='fs-large'>X</td><td></td><td></td><td></td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td class='fs-large'>X</td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td></td><td class='fs-large hover-container' >X</td><td></td><td colspan='2'></td></tr></table><div class='flex flex-column ai-center jc-center m-y-1'><div class=''>This mod is considered:</div><img class='w-20' src='/images/B.webp'/></div>",
+				"is_underlined": true
+			}
+		],
+		"version_history": [
+			{
+				"version_number": "0.8.15.11",
+				"patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
+			},
+			{
+				"version_number": "0.8.15.4",
+				"patch_note": "Fixed missing healthbar"
+			},
+			{
+				"version_number": "0.8.14.18",
+				"patch_note": "Skin released to public"
+			}
+		]
+	},
+	{
+		"post_title": "DB Goku as Sett",
+		"preview_text": "This skin mod replaces Sett from League of Legends with Goku from Dragon Ball. This mod was requested and dedicated for UltraXEgo",
+		"entry": [
+			{
+				"entry_title": "Demonstration",
+				"entry_body": "<video controls class='basic-video-style w-50 m-y-5 m-x-a'><source src='/videos/large/DB-Goku-as-Sett.webm' type='video/webm'></video>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Mod info",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Mod info</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    For BASE SKIN Sett only. Will not work with other skins!</p>"
+			},
+			{
+				"entry_title": "Description",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Description</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    This dude, UltraXEgo, has been NAGGING (asked politely) at me NONSTOP (asked twice) to make a Goku skin 😭😭😭 FINE. Here you go. Happy?</p>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Credits",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    The assets were sourced by: I HAVE NO IDEA. I just googled Goku 3d models and picked the best ones! All rights go to their respective owners. I do not claim to own any of the work/assets used by the mod.    I do claim ownership of the <i>effort</i> put behind the formation of the mod itself.</p>"
+			},
+			{
+				"entry_title": "Bugs",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    None that I see. His hands do look weird tho</p>"
+			},
+			{
+				"entry_title": "How to contribute",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT!    Send me a DM and I'll give you whatever file you need to get started, including the link to the repo!    Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
+			},
+			{
+				"entry_title": "Mod rank",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-x-a m-y-1'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td class='fs-large'>X</td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td class='fs-large' >X</td><td></td><td></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td class='fs-large'>X</td><td></td><td></td><td></td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td class='fs-large'>X</td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td class='fs-large hover-container' >X</td><td ></td><td></td><td colspan='2'></td></tr></table><div class='flex flex-column ai-center jc-center m-y-1'><div class=''>This mod is considered:</div><img class='w-20' src='/images/B.webp'/></div>",
+				"is_underlined": true
+			}
+		],
+		"version_history": [
+			{
+				"version_number": "0.9.15.5",
+				"patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
+			},
+			{
+				"version_number": "0.9.15.4",
+				"patch_note": "Fixed missing healthbar"
+			},
+			{
+				"version_number": "0.9.14.18",
+				"patch_note": "Skin released to public"
+			}
+		]
+	},
+	{
+		"post_title": "JJK Todo as Sett",
+		"preview_text": "The Prince of Boogie Woogie is tearing up the Rift with my highest quality weighted model yet!",
+		"entry": [
+			{
+				"entry_title": "Demonstration",
+				"entry_body": "<video controls class='basic-video-style w-50 m-y-5 m-x-a'><source src='/videos/large/JJK-Todo-as-Sett.webm' type='video/webm'></video>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Mod info",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Mod info</h3><div class='simple-underline'></div><p class='text-center m-x-a w-50'>    For BASE skin Sett ONLY!</p>"
+			},
+			{
+				"entry_title": "Description",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Description</h3><div class='simple-underline'></div><p class='text-center m-x-a w-50'>    ChrispyKnight paid for this skin. Please thank him for the contribution!</p>",
+				"is_underlined": true
+			},
+			{
+				"entry_title": "Credits",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Credits</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    Riot's and kurokozeref_dggbape's assets</p>"
+			},
+			{
+				"entry_title": "Bugs",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Bugs</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    He still utilizes Sett's voices. Since they're the same voice actor, its mostly fine. Until Sett uses his momma's boy lines</p>"
+			},
+			{
+				"entry_title": "How to contribute",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    How to contribute</h3><div class='simple-underline'></div><p class='text-center w-50 m-x-a'>    ALL OF MY MODS ARE FREE TO MODIFY IN EXCHANGE FOR CREDIT!    Send me a DM and I'll give you whatever file you need to get started, including the link to the repo!    Just please, credit me, and all parties that deserve credit! I LOVE CLOUT. RAAAAAAAAAHHHH</p>"
+			},
+			{
+				"entry_title": "Mod rank",
+				"entry_body": "<h3 style='margin-bottom:0px' class='fs-large text-center highlight-text-style'>    Mod rank</h3><div class='simple-underline'></div><div class='popup '></div><table class='text-center w-90 jc-center m-x-a m-y-1'><tr class='' style='text-wrap: wrap;'><th class='hide'>You went out of your way to look at my mod(s), and I couldn't be more grateful to you.</th><th  >What are weights???</th><th  >The model was given rough-weights</th><th  >The model has 0.5 weights on major joints, like arms and legs</th><th  >The model was 100% weighted by me</th><th  >This uses weights from the original source model</th></tr><tr  style='text-wrap: wrap;'><th class='w-25 '>Model/Weighting</th><td></td><td></td><td></td><td class='fs-large'>X</td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>I make these mods for you all, and I am fueled by the wonderful praise I received from each of you.</th><th  >I made them 😭</th><th  >Riot Games™ made them 😔</th><th  >Some animations were replaced utilizing various techniques</th><th  >Animations were created by source animations mirroring to the rig</th><th  >Animations were imported by the source</th></tr><tr><th class='w-25 '>Animations</th><td></td><td class='fs-large'>X</td><td></td><td></td><td></td></tr><tr class='' style='text-wrap: wrap;'><th class='hide'>With each praise, I go back and make my mods better. You keep my mods alive and well, my life's work.</th><th  >I made them 😭</th><th  >Untouched</th><th  >Some voice lines were changed</th><th  >All the voice lines were changed</th><th  >Both voice lines and SFX were changed</th></tr><tr><th class='w-25 '>SFX and voice lines</th><td></td><td class='fs-large'>X</td><td></td><td></td><td></td></tr><tr class=''><th class='hide'>Because of you are who you are, I can keep going. And I hope to see you again.</th><th colspan='2'  >I made them 😭</th><th  >Untouched</th><th colspan='2'  >Created by a professional</th></tr><tr><th class='w-25 '>Ability Icons</th><td colspan='2'></td><td class='fs-large'>X</td><td colspan='2'></td></tr><tr class=''><th class='hide text-left'> You are priceless to me. <i><br>With love,<br>Valentine</i></th><th  >Untouched</th><th  >Color-shifted</th><th  >Adjusted/Trimmed/Tweaked</th><th colspan='2'  >Custom VFX</th></tr><tr><th class='w-25 '>VFX/Particles</th><td class='fs-large'>X</td><td ></td><td></td><td colspan='2'></td></tr></table><div class='flex flex-column ai-center jc-center m-y-1'><div class=''>This mod is considered:</div><img class='w-20' src='/images/A.webp'/></div>",
+				"is_underlined": true
+			}
+		],
+		"version_history": [
+			{
+				"version_number": "1.0.15.4",
+				"patch_note": "The last update before being sunset<br>Thank you, Moga, for all your hard work keeping these mods alive until now"
+			},
+			{
+				"version_number": "1.0.15.4",
+				"patch_note": "Fixed missing healthbar"
+			},
+			{
+				"version_number": "1.0.14.19",
+				"patch_note": "Skin released to public"
+			}
+		]
+	}
+]

@@ -1,40 +1,117 @@
-.mod-info{
-    width: 85%;
-    box-shadow: 6px 7px 20px 10px rgba(0,0,0, 0.74);
-    border: 5px solid rgb(var(--darker-primary-color));
-    border-radius: 5px;
-    margin: auto;
-    min-height: 85%;
-    min-width: 65vw;
+.mod-info {
+	width: 85%;
+	box-shadow: 6px
+		7px
+		20px
+		10px
+		rgba(
+			0,
+			0,
+			0,
+			0.74
+		);
+	border: 5px
+		solid
+		rgb(
+			var(
+				--darker-primary-color
+			)
+		);
+	border-radius: 5px;
+	margin: auto;
+	min-height: 85%;
+	min-width: 65vw;
 }
-.basic-video-style{
-    box-shadow: 0px 0px 20px 12px rgba(127,60,149, 0.5);
-    /* width: 85%; */
-    border-radius: 10px;
+.basic-video-style {
+	box-shadow: 0px
+		0px
+		20px
+		12px
+		rgba(
+			127,
+			60,
+			149,
+			0.5
+		);
+	/* width: 85%; */
+	border-radius: 10px;
 }
-.hide{
-    color: rgb(7, 15, 23);
+.hide {
+	color: rgb(
+		7,
+		15,
+		23
+	);
 }
 
-.basic-button{
-    border: .5vw rgb(34, 44, 63) solid;
-    border-radius: .5vw;
-    background-color: rgb(34, 44, 63);
-    box-shadow: 0px 0px 12px 2px rgba(34, 44, 63, 0.74);
-    transition: background-color 0.2s ease,border-color 0.2s ease,box-shadow 0.2s ease;
+.basic-button {
+	border: 0.5vw
+		rgb(
+			34,
+			44,
+			63
+		)
+		solid;
+	border-radius: 0.5vw;
+	background-color: rgb(
+		34,
+		44,
+		63
+	);
+	box-shadow: 0px
+		0px
+		12px
+		2px
+		rgba(
+			34,
+			44,
+			63,
+			0.74
+		);
+	transition:
+		background-color
+			0.2s
+			ease,
+		border-color
+			0.2s
+			ease,
+		box-shadow
+			0.2s
+			ease;
 }
-.basic-button:hover{
-    border: .5vw rgb(44, 57, 83) solid;
-    background-color: rgb(44, 57, 83);
-    box-shadow: 0px 0px 12px 2px rgba(44, 57, 83, 0.74);
+.basic-button:hover {
+	border: 0.5vw
+		rgb(
+			44,
+			57,
+			83
+		)
+		solid;
+	background-color: rgb(
+		44,
+		57,
+		83
+	);
+	box-shadow: 0px
+		0px
+		12px
+		2px
+		rgba(
+			44,
+			57,
+			83,
+			0.74
+		);
 }
-.quaternary-underline{
-    height: .1vw;
-    width: 95%;
-    background-color: var(--quaternary);
+.quaternary-underline {
+	height: 0.1vw;
+	width: 95%;
+	background-color: var(
+		--quaternary
+	);
 }
-@media (max-width:100em) {
-    .mod-info{
-        width: 95%;
-    }
+@media (max-width: 100em) {
+	.mod-info {
+		width: 95%;
+	}
 }

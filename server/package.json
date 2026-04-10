@@ -1,48 +1,48 @@
 {
-  "name": "swoggerslol",
-  "version": "1.0.0",
-  "description": "Website mods and software",
-  "main": "server.mjs",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server.js",
-    "docker-rebuild": "docker-compose down && docker-compose build && docker-compose up -d"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AlecRuin/swoggerslol.git"
-  },
-  "author": "Katlec Valentine",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AlecRuin/swoggerslol/issues"
-  },
-  "homepage": "https://swoggerslol.com",
-  "dependencies": {
-    "@apollo/server": "^4.11.3",
-    "@apollo/utils.keyvadapter": "^4.0.0",
-    "@keyv/memcache": "^2.0.1",
-    "body-parser": "^1.20.3",
-    "cors": "^2.8.5",
-    "dotenv": "^16.4.7",
-    "ejs": "^3.1.10",
-    "express": "^4.21.2",
-    "express-rate-limit": "^7.5.0",
-    "graphql": "^16.10.0",
-    "keyv": "^5.2.3",
-    "mongoose": "^8.11.0",
-    "nodemon": "^3.1.9"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  }
+	"name": "swoggerslol",
+	"version": "1.0.0",
+	"description": "Website mods and software",
+	"main": "server.mjs",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "nodemon server.js",
+		"docker-rebuild": "docker-compose down && docker-compose build && docker-compose up -d"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/AlecRuin/swoggerslol.git"
+	},
+	"author": "Katlec Valentine",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/AlecRuin/swoggerslol/issues"
+	},
+	"homepage": "https://swoggerslol.com",
+	"dependencies": {
+		"@apollo/server": "^4.11.3",
+		"@apollo/utils.keyvadapter": "^4.0.0",
+		"@keyv/memcache": "^2.0.1",
+		"body-parser": "^1.20.3",
+		"cors": "^2.8.5",
+		"dotenv": "^16.4.7",
+		"ejs": "^3.1.10",
+		"express": "^4.21.2",
+		"express-rate-limit": "^7.5.0",
+		"graphql": "^16.10.0",
+		"keyv": "^5.2.3",
+		"mongoose": "^8.11.0",
+		"nodemon": "^3.1.9"
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	}
 }

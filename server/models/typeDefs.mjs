@@ -1,4 +1,4 @@
-export const typeDefs=`#graphql
+export const typeDefs = `#graphql
 type entries{
     entry_title:String
     entry_body:String,
@@ -22,4 +22,4 @@ type Query{
     GetAllPosts:[Post]
     GetPostByPostName(PostName:String!):Post
 }
-`
+`;
