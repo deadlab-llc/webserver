@@ -4,17 +4,17 @@ updates:
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
-      inverval: "weekly"
+      interval: "weekly"
   - package-ecosystem: "npm"
     directory: "/server"
     schedule:
-      inverval: "weekly"
+      interval: "weekly"
   - package-ecosystem: "npm"
     directory: "/client-deadlab"
     schedule:
-      inverval: "weekly"
+      interval: "weekly"
   - package-ecosystem: "npm"
     directory: "/client-swoggerslol"
     schedule:
-      inverval: "weekly"
+      interval: "weekly"
     open-pull-requests-limit: 5
