@@ -15,8 +15,8 @@ jobs:
           #write key using printf to preserve newlines
           printf "%s\n" "${{ secrets.SERVER_SSH_KEY }}" > ~/.ssh/id_ed25519
           chmod 600 ~/.ssh/id_ed25519
-          # trust your server so it doesnt prompt yes/no
-          ssh-keyscan -H ${{ secrets.SERVER_IP }} >> ~/.ssh/known_hosts
+          # use known fingerprints instead of scanning
+          echo "${{ secrets.SERVER_FINGERPRINT }}" >> ~/.ssh/known_hosts
       - name: Deploy to server
         run: |
           ssh ${{ secrets.SERVER_USER }}@${{ secrets.SERVER_IP }} "
