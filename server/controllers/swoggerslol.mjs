@@ -38,28 +38,23 @@ ROUTES.get("/posts/:post_title", async (req, res) => {
 				.send(
 					"Post not found",
 				);
+		const sanitized = (str) => str.replace(/[&<>"'&]/g, (c) => {`&#${c.charCodeAt(0)};`});
 		const html =
 			cachedHTML.replace(
 				"<head>",
 				`<head>
-            <meta property="og:title" content="${post.post_title}" />
-            <meta property="og:description" content="${post.preview_text}" />
-            <meta property="og:image" content="/images/mods/${post_title}.webp" />
-            <meta property="og:url" content="${process.env.SWOGGERSLOL_URI}/posts/${post_title}"
+            <meta property="og:title" content="${sanitized(post.post_title)}" />
+            <meta property="og:description" content="${sanitized(post.preview_text)}" />
+            <meta property="og:image" content="/images/mods/${sanitized(post_title)}.webp" />
+            <meta property="og:url" content="${sanitized(process.env.SWOGGERSLOL_URI)}/posts/${sanitized(post_title)}"
             `,
 			);
 		res.send(
 			html,
 		);
 	} catch (error) {
-		return res
-			.status(
-				500,
-			)
-			.send(
-				error,
-			);
-	}
+		console.log(error);
+		return res.status(500).send("Internal Server Error");
 });
 ROUTES.post("/update", async (req, res) => {
 	try {
@@ -92,6 +87,14 @@ ROUTES.post("/update", async (req, res) => {
 				)
 				.send(
 					"missing params",
+				);
+		if (typeof req.body.post_title != "string" || typeof req.body.patch != "string")
+			return res
+				.status(
+					400,
+				)
+				.send(
+					"invalid params",
 				);
 		let {
 			post_title,
