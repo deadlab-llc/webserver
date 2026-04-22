@@ -12,7 +12,7 @@
 	"dependencies": {
 		"@apollo/client": "^3.13.1",
 		"react": "^19.0.5",
-		"react-dom": "^19.0.0",
+		"react-dom": "^19.0.5",
 		"react-router-dom": "^7.14.2",
 		"vite-plugin-sitemap": "^0.8.2"
 	},
