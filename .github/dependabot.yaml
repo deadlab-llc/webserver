@@ -5,16 +5,36 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+    allow:
+      - dependency-type: "patch"  # ONLY patch updates (1.0.x), never minor or major
+    ignore:
+      - dependency-name: "*"
+        update-types: ["version-update:semver-major", "version-update:semver-minor"]
   - package-ecosystem: "npm"
     directory: "/server"
     schedule:
       interval: "weekly"
+    allow:
+      - dependency-type: "patch"
+    ignore:
+      - dependency-name: "*"
+        update-types: ["version-update:semver-major", "version-update:semver-minor"]
   - package-ecosystem: "npm"
     directory: "/client-deadlab"
     schedule:
       interval: "weekly"
+    allow:
+      - dependency-type: "patch"
+    ignore:
+      - dependency-name: "*"
+        update-types: ["version-update:semver-major", "version-update:semver-minor"]
   - package-ecosystem: "npm"
     directory: "/client-swoggerslol"
     schedule:
       interval: "weekly"
+    allow:
+      - dependency-type: "patch"
+    ignore:
+      - dependency-name: "*"
+        update-types: ["version-update:semver-major", "version-update:semver-minor"]
     open-pull-requests-limit: 5

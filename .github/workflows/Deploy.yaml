@@ -1,10 +1,14 @@
 name: Deploy
 on:
+  pull_request:
+    branches: [master]
+  permissions:
+    contents: read
+on:
   push:
     branches: [master]
 permissions:
   contents: read
-  pull-requests: write
 jobs:
   deploy:
     runs-on: ubuntu-latest
