@@ -1,22 +1,18 @@
 name: Build Check
-#testing rules and actions
 on:
   pull_request:
     branches: [master]
 permissions:
-  contents: read
+  contents: write
   pull-requests: write
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      #grab code
       - uses: actions/checkout@v4
-        #install node
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      #install and build swoggerslol
       - name: Build client-swoggerslol
         run: |
           cd client-swoggerslol
